@@ -1,0 +1,1201 @@
+click_id,client_id,click_datetime,source,campaign,geo,device,placement,click_cost,ip,user_agent
+149,c_454,2025-09-01 00:22:47,network_x,loan_cmp1,VN,mobile,comparison,0.48,199.89.213.143,Chrome
+603,c_466,2025-09-01 00:32:31,tiktok_ads,loan_cmp2,MX,mobile,homepage,0.76,17.19.219.70,Firefox
+1034,c_466,2025-09-01 00:38:11,google_ads,brand_search,VN,mobile,native_widget,0.48,228.36.45.130,Edge
+904,c_167,2025-09-01 01:30:45,email_aff,loan_cmp2,MX,tablet,native_widget,0.37,109.60.247.178,Android WebView
+477,c_22,2025-09-01 03:50:54,botnet_01,loan_cmp2,CO,desktop,blog,0.54,10.10.10.10,Android WebView
+1063,c_311,2025-09-01 04:16:16,email_aff,brand_search,MX,desktop,comparison,1.47,48.62.69.147,Safari
+671,c_58,2025-09-01 04:16:41,google_ads,cashback_promo,CO,mobile,blog,1.03,188.111.15.227,Chrome
+285,c_116,2025-09-01 04:16:57,facebook_ads,loan_cmp1,MX,mobile,blog,1.32,148.116.87.10,Firefox
+96,c_469,2025-09-01 05:20:50,facebook_ads,display_ret,CO,desktop,comparison,0.18,115.26.29.149,Firefox
+1118,c_495,2025-09-01 05:22:39,botnet_01,brand_search,KZ,desktop,native_widget,1.25,10.10.10.10,Android WebView
+484,c_151,2025-09-01 05:33:48,email_aff,display_ret,CO,mobile,homepage,0.5,224.6.103.10,Safari
+179,c_192,2025-09-01 05:38:01,email_aff,brand_search,KZ,mobile,native_widget,0.42,232.21.28.203,Safari
+572,c_159,2025-09-01 06:00:02,google_ads,loan_cmp2,MX,desktop,comparison,0.38,186.239.179.212,Safari
+145,c_308,2025-09-01 06:26:36,email_aff,display_ret,VN,desktop,native_widget,0.69,5.239.86.175,Safari
+584,c_27,2025-09-01 06:48:50,tiktok_ads,display_ret,MX,mobile,homepage,1.32,97.111.16.23,Safari
+765,c_143,2025-09-01 07:25:07,google_ads,lookalike,CO,mobile,popup,1.08,5.229.78.91,Edge
+1133,c_391,2025-09-01 07:25:32,network_x,display_ret,MX,mobile,homepage,0.49,7.73.107.99,Safari
+1028,c_16,2025-09-01 07:40:03,tiktok_ads,display_ret,MX,mobile,popup,0.2,168.153.252.25,Firefox
+228,c_67,2025-09-01 08:58:47,email_aff,display_ret,MX,mobile,homepage,0.97,6.214.153.210,Chrome
+107,c_239,2025-09-01 09:05:33,facebook_ads,loan_cmp2,CO,mobile,native_widget,0.05,173.142.120.158,Safari
+1179,c_433,2025-09-01 09:12:46,facebook_ads,cashback_promo,VN,tablet,homepage,0.45,226.209.180.186,Chrome
+430,c_108,2025-09-01 12:03:10,network_x,cashback_promo,VN,desktop,native_widget,1.32,87.90.237.134,Edge
+978,c_79,2025-09-01 12:15:12,botnet_01,cashback_promo,VN,mobile,popup,0.17,10.10.10.10,Android WebView
+206,c_423,2025-09-01 13:19:05,email_aff,brand_search,CO,desktop,blog,0.29,2.22.112.57,Safari
+7,c_217,2025-09-01 13:36:24,facebook_ads,cashback_promo,MX,desktop,native_widget,1.48,88.129.236.136,Firefox
+1096,c_252,2025-09-01 13:42:29,email_aff,loan_cmp1,CO,desktop,homepage,1.07,172.63.65.39,Firefox
+339,c_232,2025-09-01 13:59:17,email_aff,loan_cmp1,VN,mobile,comparison,1.07,38.176.27.20,Edge
+209,c_284,2025-09-01 14:05:29,email_aff,display_ret,MX,mobile,popup,0.77,6.167.180.23,Chrome
+628,c_219,2025-09-01 14:18:27,google_ads,display_ret,CO,mobile,homepage,1.11,221.9.33.188,Chrome
+34,c_453,2025-09-01 15:42:53,tiktok_ads,display_ret,VN,mobile,popup,0.68,23.250.10.246,Android WebView
+538,c_235,2025-09-01 16:15:02,google_ads,cashback_promo,MX,desktop,homepage,0.51,140.106.133.108,Safari
+308,c_379,2025-09-01 16:44:32,email_aff,cashback_promo,VN,mobile,popup,0.61,7.49.137.164,Firefox
+799,c_263,2025-09-01 17:05:01,botnet_01,display_ret,MX,mobile,popup,1.22,10.10.10.10,Android WebView
+1180,c_172,2025-09-01 17:09:39,google_ads,cashback_promo,MX,mobile,homepage,0.48,246.106.34.219,Android WebView
+625,c_353,2025-09-01 17:42:02,network_x,cashback_promo,CO,mobile,comparison,0.61,254.40.32.197,Chrome
+254,c_222,2025-09-01 19:08:19,google_ads,lookalike,MX,tablet,comparison,1.26,1.143.37.141,Android WebView
+732,c_122,2025-09-01 19:10:35,google_ads,display_ret,MX,mobile,popup,0.83,165.66.145.168,Android WebView
+574,c_32,2025-09-01 19:20:03,network_x,brand_search,KZ,desktop,homepage,0.15,9.62.185.29,Android WebView
+1154,c_191,2025-09-01 19:27:23,google_ads,display_ret,MX,desktop,blog,0.66,18.136.234.208,Firefox
+1047,c_316,2025-09-01 19:33:22,google_ads,lookalike,MX,desktop,homepage,1.01,149.23.137.246,Firefox
+949,c_451,2025-09-01 20:01:45,facebook_ads,display_ret,CO,mobile,native_widget,0.45,106.133.178.85,Safari
+225,c_469,2025-09-01 20:11:32,tiktok_ads,loan_cmp1,MX,desktop,popup,0.19,189.137.68.35,Chrome
+367,c_107,2025-09-01 20:57:56,network_x,loan_cmp2,MX,mobile,homepage,0.87,151.56.134.86,Safari
+229,c_61,2025-09-01 21:04:28,tiktok_ads,display_ret,KZ,desktop,blog,0.74,99.168.142.35,Android WebView
+1170,c_241,2025-09-01 21:35:55,email_aff,cashback_promo,VN,desktop,popup,1.01,30.108.73.109,Chrome
+250,c_236,2025-09-01 21:57:43,email_aff,loan_cmp2,CO,desktop,comparison,0.69,155.203.192.249,Firefox
+925,c_396,2025-09-01 22:26:32,network_x,lookalike,MX,desktop,comparison,1.36,152.181.235.184,Chrome
+563,c_361,2025-09-01 22:38:14,google_ads,loan_cmp2,MX,mobile,comparison,0.96,180.153.182.125,Firefox
+749,c_386,2025-09-01 22:52:15,facebook_ads,loan_cmp1,MX,desktop,comparison,0.76,85.167.128.212,Safari
+15,c_387,2025-09-02 00:14:14,facebook_ads,brand_search,KZ,desktop,blog,0.45,225.129.147.126,Safari
+579,c_430,2025-09-02 00:24:28,tiktok_ads,lookalike,MX,tablet,homepage,0.26,172.64.31.236,Safari
+544,c_155,2025-09-02 01:03:52,tiktok_ads,cashback_promo,MX,desktop,homepage,1.18,66.52.92.171,Firefox
+991,c_202,2025-09-02 05:44:01,botnet_01,display_ret,KZ,mobile,popup,1.25,10.10.10.10,Android WebView
+555,c_103,2025-09-02 05:44:49,email_aff,lookalike,CO,desktop,comparison,0.14,253.192.202.69,Chrome
+577,c_486,2025-09-02 06:19:23,google_ads,loan_cmp2,CO,desktop,popup,0.96,69.159.45.137,Safari
+1122,c_320,2025-09-02 07:29:17,facebook_ads,brand_search,MX,mobile,homepage,0.34,130.104.242.243,Edge
+136,c_177,2025-09-02 07:29:18,tiktok_ads,brand_search,CO,mobile,popup,1.36,6.39.170.243,Firefox
+958,c_467,2025-09-02 08:30:14,network_x,lookalike,CO,mobile,blog,0.6,149.119.120.35,Chrome
+19,c_99,2025-09-02 08:46:56,google_ads,display_ret,KZ,mobile,homepage,0.18,140.197.37.160,Firefox
+860,c_253,2025-09-02 09:23:46,tiktok_ads,cashback_promo,MX,desktop,native_widget,1.46,19.187.181.244,Firefox
+552,c_128,2025-09-02 10:06:44,facebook_ads,loan_cmp1,MX,desktop,popup,1.26,154.48.95.147,Chrome
+1066,c_40,2025-09-02 10:44:58,tiktok_ads,brand_search,CO,desktop,native_widget,1.21,185.179.13.128,Firefox
+695,c_339,2025-09-02 13:18:48,google_ads,cashback_promo,VN,desktop,homepage,0.49,55.61.89.8,Android WebView
+679,c_54,2025-09-02 13:19:25,network_x,lookalike,VN,mobile,blog,1.13,242.130.94.194,Safari
+592,c_351,2025-09-02 13:59:50,google_ads,lookalike,MX,desktop,comparison,1.5,31.115.232.26,Android WebView
+1010,c_83,2025-09-02 14:39:59,facebook_ads,lookalike,MX,mobile,homepage,1.32,25.194.243.201,Chrome
+255,c_188,2025-09-02 15:03:09,email_aff,brand_search,VN,mobile,homepage,0.46,4.158.223.102,Firefox
+55,c_488,2025-09-02 17:11:17,tiktok_ads,cashback_promo,MX,desktop,blog,1.17,123.50.12.193,Edge
+139,c_84,2025-09-02 17:57:54,tiktok_ads,loan_cmp2,CO,desktop,popup,1.0,193.168.204.184,Edge
+1001,c_165,2025-09-02 18:25:30,google_ads,loan_cmp2,MX,tablet,popup,0.89,175.225.2.234,Chrome
+5,c_264,2025-09-02 18:29:17,google_ads,loan_cmp2,MX,desktop,popup,0.8,106.4.54.221,Safari
+190,c_364,2025-09-02 18:54:16,email_aff,brand_search,MX,desktop,blog,0.85,128.46.231.219,Firefox
+794,c_414,2025-09-02 19:18:26,google_ads,cashback_promo,CO,mobile,blog,0.35,196.87.249.242,Edge
+1140,c_220,2025-09-02 19:25:39,facebook_ads,loan_cmp1,CO,desktop,comparison,0.41,222.173.84.29,Safari
+369,c_359,2025-09-02 20:55:01,facebook_ads,brand_search,CO,desktop,popup,1.42,115.244.68.214,Safari
+497,c_183,2025-09-02 21:29:15,email_aff,display_ret,VN,mobile,comparison,0.99,134.205.192.100,Safari
+28,c_20,2025-09-02 21:50:57,tiktok_ads,loan_cmp2,VN,mobile,popup,0.69,191.86.51.153,Safari
+452,c_129,2025-09-02 22:43:08,facebook_ads,brand_search,MX,desktop,blog,0.91,21.122.70.96,Chrome
+558,c_259,2025-09-02 22:52:37,network_x,loan_cmp1,CO,mobile,native_widget,1.12,90.186.62.251,Chrome
+110,c_349,2025-09-02 23:00:56,tiktok_ads,loan_cmp1,VN,desktop,comparison,0.32,3.120.6.5,Android WebView
+57,c_226,2025-09-02 23:07:31,facebook_ads,display_ret,CO,mobile,comparison,0.84,225.216.79.252,Safari
+963,c_474,2025-09-03 00:20:18,tiktok_ads,loan_cmp2,MX,desktop,homepage,0.62,50.78.213.154,Firefox
+406,c_19,2025-09-03 00:42:17,google_ads,display_ret,CO,mobile,popup,1.34,182.194.49.144,Safari
+1106,c_449,2025-09-03 01:15:21,network_x,loan_cmp2,VN,mobile,comparison,1.03,6.191.148.149,Safari
+692,c_446,2025-09-03 02:44:12,network_x,display_ret,MX,tablet,popup,1.24,16.78.208.59,Android WebView
+597,c_498,2025-09-03 03:02:56,google_ads,brand_search,VN,mobile,homepage,0.83,5.13.147.140,Chrome
+701,c_268,2025-09-03 03:47:43,tiktok_ads,lookalike,CO,desktop,homepage,0.08,1.209.25.187,Android WebView
+529,c_431,2025-09-03 05:31:21,facebook_ads,loan_cmp1,VN,mobile,native_widget,0.89,233.40.67.153,Android WebView
+247,c_483,2025-09-03 05:36:59,google_ads,display_ret,CO,mobile,homepage,0.49,214.249.152.250,Firefox
+414,c_372,2025-09-03 05:49:15,tiktok_ads,lookalike,MX,mobile,native_widget,0.42,182.190.215.32,Android WebView
+1196,c_484,2025-09-03 06:29:58,botnet_01,lookalike,VN,desktop,blog,1.35,10.10.10.10,Android WebView
+1070,c_130,2025-09-03 06:38:21,tiktok_ads,brand_search,CO,mobile,popup,0.44,15.143.189.16,Edge
+279,c_333,2025-09-03 07:10:51,tiktok_ads,cashback_promo,CO,desktop,popup,1.49,64.187.90.190,Chrome
+124,c_387,2025-09-03 07:20:31,facebook_ads,display_ret,VN,desktop,native_widget,1.31,24.12.18.15,Edge
+605,c_80,2025-09-03 07:53:20,email_aff,lookalike,CO,mobile,popup,1.02,171.228.240.17,Chrome
+387,c_400,2025-09-03 08:00:07,google_ads,loan_cmp1,MX,mobile,blog,0.78,171.159.201.231,Android WebView
+160,c_441,2025-09-03 08:55:17,tiktok_ads,display_ret,MX,mobile,blog,0.7,169.241.203.231,Edge
+89,c_239,2025-09-03 09:41:51,tiktok_ads,lookalike,CO,desktop,blog,1.48,32.120.46.235,Edge
+546,c_493,2025-09-03 10:18:42,tiktok_ads,display_ret,MX,mobile,native_widget,0.43,218.11.126.71,Android WebView
+1109,c_395,2025-09-03 11:43:05,email_aff,display_ret,CO,mobile,popup,0.53,86.142.191.81,Android WebView
+17,c_240,2025-09-03 13:50:11,email_aff,brand_search,MX,desktop,native_widget,0.52,164.147.90.195,Firefox
+62,c_319,2025-09-03 14:00:28,facebook_ads,brand_search,MX,mobile,homepage,1.48,47.127.56.214,Safari
+219,c_437,2025-09-03 14:08:59,email_aff,loan_cmp2,KZ,desktop,homepage,1.01,210.115.225.134,Firefox
+437,c_340,2025-09-03 14:38:39,tiktok_ads,lookalike,MX,desktop,native_widget,0.34,78.77.245.249,Safari
+677,c_107,2025-09-03 15:26:52,google_ads,display_ret,MX,desktop,blog,0.68,31.81.239.201,Safari
+739,c_291,2025-09-03 15:52:04,google_ads,display_ret,MX,desktop,comparison,1.3,89.161.100.189,Android WebView
+1101,c_290,2025-09-03 15:53:48,facebook_ads,brand_search,VN,desktop,popup,0.69,184.9.237.215,Edge
+786,c_88,2025-09-03 16:25:36,facebook_ads,cashback_promo,CO,mobile,comparison,1.04,49.96.201.157,Safari
+710,c_235,2025-09-03 16:43:14,network_x,brand_search,KZ,mobile,blog,0.24,64.95.180.34,Chrome
+134,c_454,2025-09-03 16:45:15,email_aff,loan_cmp2,MX,mobile,comparison,0.34,35.189.93.182,Chrome
+1120,c_455,2025-09-03 17:46:46,google_ads,lookalike,MX,desktop,popup,1.15,110.114.51.46,Edge
+1197,c_444,2025-09-03 17:54:42,facebook_ads,display_ret,MX,mobile,native_widget,0.99,51.113.146.171,Edge
+737,c_460,2025-09-03 18:12:12,tiktok_ads,lookalike,CO,mobile,popup,0.33,160.10.64.232,Android WebView
+265,c_293,2025-09-03 18:37:35,google_ads,loan_cmp1,CO,desktop,homepage,0.35,206.227.236.105,Edge
+510,c_57,2025-09-03 18:56:39,tiktok_ads,display_ret,CO,desktop,native_widget,0.86,250.76.130.203,Edge
+9,c_33,2025-09-03 19:36:32,google_ads,loan_cmp2,MX,mobile,comparison,0.61,175.206.131.1,Android WebView
+1074,c_336,2025-09-03 20:05:54,email_aff,display_ret,VN,desktop,homepage,1.26,214.183.203.96,Firefox
+688,c_9,2025-09-03 20:46:44,tiktok_ads,loan_cmp1,MX,desktop,popup,0.47,203.180.136.4,Firefox
+217,c_314,2025-09-03 21:41:52,tiktok_ads,loan_cmp2,VN,mobile,comparison,0.23,16.162.66.227,Edge
+239,c_437,2025-09-03 21:56:43,network_x,loan_cmp2,CO,mobile,comparison,0.89,41.63.23.104,Firefox
+615,c_337,2025-09-04 00:12:49,network_x,display_ret,VN,desktop,popup,1.1,157.81.224.135,Edge
+807,c_400,2025-09-04 02:12:40,tiktok_ads,display_ret,KZ,mobile,homepage,0.54,158.173.123.218,Chrome
+977,c_240,2025-09-04 03:46:20,google_ads,cashback_promo,MX,tablet,native_widget,1.34,247.233.86.64,Firefox
+488,c_145,2025-09-04 04:21:36,google_ads,brand_search,MX,mobile,homepage,0.21,50.112.94.168,Safari
+988,c_349,2025-09-04 04:33:37,google_ads,cashback_promo,MX,desktop,native_widget,0.79,130.249.111.94,Safari
+940,c_289,2025-09-04 04:47:21,facebook_ads,display_ret,CO,mobile,popup,1.23,9.30.115.45,Edge
+227,c_406,2025-09-04 05:03:50,tiktok_ads,lookalike,CO,mobile,comparison,0.79,28.4.150.76,Android WebView
+1125,c_259,2025-09-04 06:54:52,email_aff,loan_cmp2,MX,mobile,native_widget,0.54,156.178.90.136,Safari
+1075,c_223,2025-09-04 06:58:27,email_aff,cashback_promo,CO,desktop,comparison,0.24,80.154.102.25,Edge
+1145,c_70,2025-09-04 07:16:59,network_x,display_ret,MX,desktop,blog,0.78,212.24.216.55,Safari
+1127,c_30,2025-09-04 08:26:39,network_x,loan_cmp1,VN,desktop,homepage,0.64,91.200.252.188,Firefox
+834,c_390,2025-09-04 08:46:29,botnet_01,lookalike,VN,mobile,comparison,0.57,10.10.10.10,Android WebView
+112,c_160,2025-09-04 09:38:21,tiktok_ads,loan_cmp1,MX,mobile,homepage,1.3,11.105.184.67,Firefox
+1091,c_465,2025-09-04 09:55:39,email_aff,display_ret,CO,tablet,popup,1.07,164.70.254.137,Android WebView
+1152,c_16,2025-09-04 12:15:04,google_ads,brand_search,KZ,mobile,native_widget,0.56,86.31.3.30,Android WebView
+1035,c_154,2025-09-04 12:51:21,google_ads,cashback_promo,CO,desktop,comparison,0.52,233.254.38.221,Edge
+117,c_499,2025-09-04 13:34:05,network_x,display_ret,MX,desktop,blog,1.15,12.39.194.224,Android WebView
+566,c_301,2025-09-04 13:38:23,network_x,brand_search,MX,tablet,popup,0.35,59.209.243.182,Chrome
+76,c_448,2025-09-04 14:15:56,google_ads,loan_cmp1,CO,mobile,comparison,0.27,97.253.229.155,Chrome
+1104,c_412,2025-09-04 15:03:30,facebook_ads,brand_search,CO,mobile,homepage,0.68,185.44.13.152,Edge
+847,c_37,2025-09-04 15:30:28,facebook_ads,display_ret,CO,mobile,comparison,1.04,232.25.231.143,Android WebView
+575,c_114,2025-09-04 16:31:13,email_aff,loan_cmp2,VN,desktop,native_widget,0.71,177.172.231.208,Firefox
+459,c_214,2025-09-04 16:47:10,facebook_ads,lookalike,CO,tablet,homepage,1.14,183.35.183.14,Chrome
+289,c_367,2025-09-04 17:00:50,network_x,loan_cmp1,VN,mobile,blog,0.8,177.215.181.248,Edge
+218,c_47,2025-09-04 17:34:38,google_ads,brand_search,CO,tablet,comparison,0.49,191.21.227.57,Android WebView
+1087,c_128,2025-09-04 19:27:27,facebook_ads,display_ret,KZ,desktop,blog,0.05,53.110.9.203,Safari
+514,c_237,2025-09-04 19:30:47,facebook_ads,loan_cmp1,MX,desktop,native_widget,0.87,53.106.153.44,Edge
+670,c_188,2025-09-04 21:30:00,google_ads,brand_search,CO,desktop,native_widget,0.31,253.251.88.194,Chrome
+866,c_227,2025-09-04 21:51:12,network_x,brand_search,MX,desktop,homepage,1.04,130.31.108.225,Edge
+524,c_498,2025-09-04 22:01:55,network_x,lookalike,MX,desktop,popup,1.18,109.44.7.249,Edge
+556,c_258,2025-09-04 22:53:41,tiktok_ads,loan_cmp2,KZ,mobile,popup,1.4,239.70.240.177,Firefox
+1151,c_152,2025-09-05 01:19:59,tiktok_ads,loan_cmp1,VN,desktop,homepage,1.21,146.42.241.30,Android WebView
+69,c_62,2025-09-05 01:47:49,network_x,lookalike,CO,desktop,popup,1.45,68.19.212.225,Edge
+469,c_56,2025-09-05 02:12:31,tiktok_ads,cashback_promo,CO,mobile,comparison,1.29,128.113.171.17,Safari
+746,c_125,2025-09-05 02:12:53,email_aff,cashback_promo,CO,tablet,homepage,0.86,26.129.4.39,Safari
+390,c_407,2025-09-05 02:36:57,tiktok_ads,display_ret,VN,mobile,homepage,0.88,112.120.123.191,Firefox
+568,c_215,2025-09-05 04:35:59,network_x,lookalike,MX,mobile,homepage,1.0,233.127.199.160,Edge
+1072,c_84,2025-09-05 05:34:56,network_x,display_ret,MX,mobile,native_widget,0.3,65.122.62.182,Edge
+400,c_285,2025-09-05 05:38:43,google_ads,loan_cmp2,MX,mobile,blog,0.9,19.215.34.141,Firefox
+282,c_187,2025-09-05 06:16:41,botnet_01,display_ret,VN,mobile,homepage,1.19,10.10.10.10,Android WebView
+507,c_287,2025-09-05 06:36:17,google_ads,brand_search,VN,desktop,homepage,0.94,179.114.253.246,Safari
+402,c_148,2025-09-05 07:22:33,email_aff,cashback_promo,MX,desktop,comparison,0.1,44.34.77.42,Chrome
+851,c_57,2025-09-05 07:34:28,network_x,lookalike,MX,desktop,popup,0.7,233.220.80.41,Edge
+470,c_130,2025-09-05 07:51:47,network_x,display_ret,VN,desktop,homepage,0.05,51.105.165.232,Chrome
+376,c_366,2025-09-05 09:50:40,tiktok_ads,loan_cmp2,CO,mobile,blog,0.12,108.47.215.196,Firefox
+1058,c_325,2025-09-05 09:59:10,facebook_ads,lookalike,MX,mobile,popup,1.41,52.207.234.24,Safari
+980,c_417,2025-09-05 11:14:44,tiktok_ads,loan_cmp2,VN,mobile,homepage,0.34,77.141.40.107,Edge
+321,c_495,2025-09-05 11:33:25,tiktok_ads,loan_cmp1,MX,desktop,blog,1.19,94.150.246.33,Chrome
+353,c_138,2025-09-05 12:27:05,facebook_ads,brand_search,MX,desktop,popup,1.22,223.82.192.166,Safari
+676,c_354,2025-09-05 12:40:47,facebook_ads,display_ret,MX,desktop,homepage,0.43,28.223.23.240,Android WebView
+44,c_168,2025-09-05 15:11:33,google_ads,display_ret,VN,desktop,native_widget,1.48,240.109.65.86,Edge
+862,c_67,2025-09-05 15:31:34,google_ads,display_ret,CO,desktop,comparison,0.06,77.43.139.176,Chrome
+456,c_99,2025-09-05 15:47:07,network_x,display_ret,VN,mobile,popup,1.15,52.199.130.246,Edge
+751,c_387,2025-09-05 16:38:04,google_ads,display_ret,CO,mobile,homepage,1.03,155.173.4.86,Safari
+80,c_111,2025-09-05 16:44:39,email_aff,lookalike,KZ,mobile,popup,0.08,127.106.241.92,Safari
+1190,c_283,2025-09-05 16:46:00,google_ads,loan_cmp1,CO,tablet,comparison,1.17,4.231.133.139,Android WebView
+926,c_8,2025-09-05 16:56:49,tiktok_ads,lookalike,MX,mobile,blog,0.72,118.81.208.70,Firefox
+168,c_466,2025-09-05 17:12:09,tiktok_ads,lookalike,VN,mobile,popup,0.78,49.42.166.82,Android WebView
+570,c_83,2025-09-05 17:41:08,email_aff,lookalike,MX,mobile,popup,0.84,68.36.180.181,Safari
+769,c_469,2025-09-05 18:30:15,tiktok_ads,lookalike,CO,desktop,popup,1.12,120.179.32.178,Chrome
+174,c_190,2025-09-05 18:35:18,facebook_ads,cashback_promo,CO,mobile,homepage,0.37,221.52.164.124,Safari
+162,c_379,2025-09-05 18:53:31,facebook_ads,cashback_promo,CO,mobile,popup,0.39,149.8.230.200,Safari
+908,c_370,2025-09-05 20:13:48,google_ads,loan_cmp2,CO,desktop,homepage,1.26,231.113.170.236,Safari
+975,c_57,2025-09-05 21:40:38,google_ads,loan_cmp2,MX,desktop,blog,1.16,153.67.90.4,Safari
+135,c_391,2025-09-05 21:45:39,tiktok_ads,loan_cmp2,KZ,mobile,popup,1.12,126.20.188.152,Safari
+192,c_377,2025-09-05 22:56:57,email_aff,lookalike,VN,mobile,comparison,0.58,125.132.20.138,Firefox
+824,c_255,2025-09-05 23:15:07,facebook_ads,cashback_promo,CO,desktop,native_widget,1.27,99.125.168.54,Safari
+457,c_279,2025-09-05 23:53:26,tiktok_ads,loan_cmp1,KZ,desktop,comparison,0.27,31.178.20.236,Chrome
+1049,c_348,2025-09-06 00:16:21,tiktok_ads,display_ret,MX,tablet,blog,0.12,137.244.137.191,Android WebView
+436,c_123,2025-09-06 01:31:55,google_ads,lookalike,VN,desktop,comparison,0.63,77.93.147.67,Safari
+1030,c_28,2025-09-06 01:57:18,facebook_ads,loan_cmp2,VN,desktop,homepage,0.72,131.43.47.99,Safari
+418,c_204,2025-09-06 01:58:50,tiktok_ads,cashback_promo,VN,mobile,comparison,0.95,141.141.188.185,Edge
+1113,c_340,2025-09-06 02:23:51,tiktok_ads,loan_cmp1,CO,mobile,native_widget,0.38,127.156.16.54,Android WebView
+965,c_497,2025-09-06 02:27:11,network_x,loan_cmp1,MX,desktop,homepage,0.38,141.178.101.6,Android WebView
+238,c_357,2025-09-06 02:55:16,google_ads,brand_search,MX,mobile,homepage,1.05,146.164.99.173,Chrome
+295,c_81,2025-09-06 05:24:16,network_x,display_ret,CO,mobile,comparison,0.23,122.167.253.126,Chrome
+291,c_317,2025-09-06 05:41:06,facebook_ads,lookalike,MX,desktop,popup,1.01,239.169.197.141,Safari
+1134,c_268,2025-09-06 05:52:39,tiktok_ads,loan_cmp1,MX,tablet,popup,0.2,196.251.68.157,Android WebView
+252,c_328,2025-09-06 06:03:46,network_x,brand_search,CO,desktop,comparison,0.7,13.175.238.189,Safari
+498,c_12,2025-09-06 06:21:24,network_x,loan_cmp2,CO,desktop,comparison,1.18,187.69.11.143,Firefox
+715,c_330,2025-09-06 07:01:27,tiktok_ads,lookalike,CO,desktop,homepage,0.86,89.146.182.1,Android WebView
+306,c_403,2025-09-06 09:35:10,tiktok_ads,display_ret,MX,desktop,comparison,0.87,73.225.96.48,Chrome
+994,c_370,2025-09-06 09:37:20,google_ads,loan_cmp2,VN,tablet,homepage,0.58,68.48.57.75,Edge
+831,c_400,2025-09-06 10:20:11,google_ads,loan_cmp2,CO,mobile,popup,1.3,71.214.179.65,Android WebView
+658,c_43,2025-09-06 10:31:49,google_ads,lookalike,VN,desktop,homepage,1.01,153.125.79.90,Firefox
+706,c_319,2025-09-06 12:15:35,facebook_ads,loan_cmp1,MX,desktop,homepage,0.52,206.172.119.74,Edge
+611,c_410,2025-09-06 14:43:34,facebook_ads,cashback_promo,MX,mobile,blog,1.28,115.75.156.248,Safari
+198,c_50,2025-09-06 14:44:32,google_ads,lookalike,MX,mobile,native_widget,1.4,51.245.147.170,Firefox
+712,c_107,2025-09-06 16:21:45,facebook_ads,loan_cmp2,MX,mobile,blog,1.3,125.247.179.73,Firefox
+984,c_164,2025-09-06 16:28:50,facebook_ads,loan_cmp2,MX,mobile,homepage,1.28,54.116.144.62,Edge
+1086,c_496,2025-09-06 16:33:38,email_aff,brand_search,MX,tablet,homepage,1.32,189.212.55.195,Firefox
+499,c_378,2025-09-06 17:46:56,email_aff,loan_cmp1,CO,mobile,native_widget,0.8,72.149.121.11,Safari
+193,c_154,2025-09-06 17:53:49,facebook_ads,loan_cmp1,MX,desktop,blog,0.57,57.173.20.17,Edge
+961,c_429,2025-09-06 18:11:56,facebook_ads,brand_search,VN,mobile,comparison,1.04,251.26.214.21,Edge
+47,c_461,2025-09-06 18:47:21,google_ads,brand_search,MX,desktop,homepage,0.07,160.173.61.47,Android WebView
+804,c_336,2025-09-06 20:00:10,network_x,loan_cmp2,MX,desktop,native_widget,0.51,3.52.74.125,Edge
+639,c_463,2025-09-06 20:28:39,tiktok_ads,display_ret,VN,desktop,blog,0.68,62.197.210.144,Chrome
+1037,c_423,2025-09-06 20:34:41,facebook_ads,cashback_promo,MX,mobile,comparison,0.27,94.27.199.155,Chrome
+727,c_178,2025-09-06 20:41:59,google_ads,display_ret,CO,desktop,popup,1.48,118.80.94.226,Chrome
+211,c_72,2025-09-06 21:24:27,email_aff,loan_cmp2,CO,desktop,popup,0.29,80.131.109.3,Firefox
+873,c_106,2025-09-06 21:40:47,email_aff,loan_cmp1,MX,desktop,homepage,0.57,20.112.120.194,Edge
+468,c_98,2025-09-06 23:19:41,google_ads,loan_cmp1,MX,desktop,homepage,1.47,54.130.209.101,Chrome
+115,c_115,2025-09-06 23:57:11,network_x,display_ret,CO,mobile,homepage,1.21,168.92.97.59,Firefox
+571,c_434,2025-09-07 00:26:22,google_ads,display_ret,CO,mobile,popup,0.44,54.90.85.17,Edge
+90,c_500,2025-09-07 01:13:45,email_aff,loan_cmp1,CO,desktop,blog,0.17,151.85.147.112,Android WebView
+63,c_28,2025-09-07 01:25:22,facebook_ads,display_ret,VN,desktop,comparison,1.35,238.107.239.252,Android WebView
+756,c_338,2025-09-07 03:21:49,email_aff,brand_search,KZ,mobile,homepage,0.5,63.112.89.160,Firefox
+620,c_462,2025-09-07 03:39:23,google_ads,loan_cmp2,KZ,mobile,homepage,0.3,234.250.148.83,Edge
+384,c_390,2025-09-07 04:05:19,google_ads,display_ret,KZ,mobile,native_widget,0.4,143.19.63.235,Edge
+103,c_371,2025-09-07 05:23:46,network_x,display_ret,CO,mobile,popup,0.51,234.103.17.14,Firefox
+1199,c_88,2025-09-07 05:28:48,email_aff,brand_search,CO,desktop,homepage,0.12,178.24.2.227,Android WebView
+1060,c_86,2025-09-07 05:33:30,google_ads,brand_search,MX,desktop,popup,1.14,92.83.191.84,Edge
+361,c_190,2025-09-07 05:47:42,botnet_01,brand_search,MX,mobile,popup,0.43,10.10.10.10,Android WebView
+1175,c_30,2025-09-07 05:49:58,network_x,display_ret,KZ,mobile,blog,0.97,46.18.141.153,Safari
+536,c_18,2025-09-07 05:56:51,email_aff,brand_search,CO,mobile,blog,0.18,38.187.137.251,Chrome
+93,c_370,2025-09-07 06:35:52,google_ads,loan_cmp2,VN,mobile,homepage,0.25,235.238.4.154,Safari
+532,c_19,2025-09-07 06:41:39,email_aff,display_ret,MX,mobile,homepage,0.19,132.230.153.197,Edge
+409,c_76,2025-09-07 08:03:12,google_ads,display_ret,MX,desktop,popup,1.03,164.152.246.155,Safari
+780,c_438,2025-09-07 08:36:30,tiktok_ads,loan_cmp1,MX,desktop,homepage,1.26,211.235.165.194,Safari
+817,c_378,2025-09-07 09:10:38,botnet_01,loan_cmp1,VN,mobile,blog,0.56,10.10.10.10,Android WebView
+782,c_370,2025-09-07 10:02:15,facebook_ads,brand_search,MX,mobile,comparison,1.34,194.207.110.221,Safari
+964,c_179,2025-09-07 10:03:32,google_ads,cashback_promo,MX,mobile,homepage,0.78,120.139.155.253,Edge
+595,c_393,2025-09-07 10:07:25,network_x,loan_cmp1,MX,desktop,homepage,0.63,115.220.188.31,Firefox
+707,c_335,2025-09-07 10:23:32,google_ads,display_ret,CO,mobile,native_widget,1.38,242.43.207.213,Edge
+863,c_438,2025-09-07 11:01:53,email_aff,lookalike,MX,desktop,native_widget,0.81,170.40.97.140,Safari
+998,c_174,2025-09-07 11:17:47,tiktok_ads,lookalike,CO,desktop,comparison,0.98,121.80.77.212,Firefox
+758,c_377,2025-09-07 11:19:54,email_aff,cashback_promo,MX,mobile,native_widget,0.76,17.56.226.46,Firefox
+1029,c_325,2025-09-07 12:18:42,email_aff,display_ret,VN,desktop,comparison,1.31,161.78.38.138,Chrome
+511,c_156,2025-09-07 12:35:37,tiktok_ads,loan_cmp1,CO,desktop,native_widget,1.28,204.16.151.168,Edge
+874,c_111,2025-09-07 13:48:33,tiktok_ads,display_ret,CO,mobile,popup,0.85,200.88.20.246,Android WebView
+723,c_462,2025-09-07 14:28:57,facebook_ads,display_ret,MX,tablet,blog,0.67,242.81.158.149,Edge
+8,c_499,2025-09-07 17:55:05,email_aff,lookalike,VN,mobile,blog,0.22,135.201.72.12,Safari
+75,c_225,2025-09-07 18:45:06,facebook_ads,display_ret,CO,tablet,comparison,0.68,67.135.179.200,Safari
+258,c_392,2025-09-07 18:51:44,facebook_ads,loan_cmp2,MX,desktop,native_widget,0.85,158.181.13.21,Firefox
+650,c_450,2025-09-07 19:19:46,google_ads,lookalike,KZ,desktop,homepage,1.02,157.107.103.194,Firefox
+474,c_407,2025-09-07 19:58:47,email_aff,loan_cmp2,VN,mobile,comparison,0.52,7.40.70.214,Safari
+1099,c_330,2025-09-07 20:02:24,facebook_ads,brand_search,KZ,desktop,homepage,0.44,125.22.15.101,Safari
+85,c_361,2025-09-07 20:58:40,google_ads,loan_cmp2,VN,mobile,homepage,0.5,222.215.179.123,Firefox
+1143,c_194,2025-09-07 22:37:58,network_x,lookalike,MX,desktop,comparison,0.25,119.165.113.250,Edge
+687,c_128,2025-09-08 00:00:02,tiktok_ads,brand_search,MX,desktop,popup,0.43,86.209.228.145,Firefox
+455,c_93,2025-09-08 00:01:06,network_x,display_ret,VN,desktop,homepage,0.12,110.9.222.117,Firefox
+755,c_439,2025-09-08 00:06:26,google_ads,display_ret,KZ,mobile,native_widget,0.39,250.69.183.168,Firefox
+371,c_284,2025-09-08 01:16:07,facebook_ads,display_ret,KZ,mobile,popup,0.59,132.166.236.155,Chrome
+1077,c_239,2025-09-08 01:22:39,tiktok_ads,loan_cmp2,CO,mobile,blog,1.31,115.197.222.214,Edge
+348,c_292,2025-09-08 01:23:41,google_ads,lookalike,CO,desktop,popup,1.38,84.116.183.144,Firefox
+287,c_149,2025-09-08 02:10:12,tiktok_ads,display_ret,VN,desktop,blog,0.66,132.23.106.84,Safari
+662,c_50,2025-09-08 02:10:33,facebook_ads,display_ret,CO,mobile,blog,0.27,94.42.133.139,Chrome
+883,c_478,2025-09-08 03:04:45,network_x,cashback_promo,MX,desktop,homepage,1.42,21.55.76.185,Safari
+171,c_436,2025-09-08 04:49:07,tiktok_ads,brand_search,VN,mobile,blog,0.25,68.173.188.12,Edge
+354,c_31,2025-09-08 05:26:23,facebook_ads,cashback_promo,CO,desktop,blog,0.26,99.172.112.60,Chrome
+829,c_219,2025-09-08 05:48:17,google_ads,display_ret,KZ,mobile,popup,0.99,142.16.171.116,Chrome
+622,c_281,2025-09-08 05:59:37,email_aff,cashback_promo,CO,mobile,comparison,0.63,243.147.28.213,Firefox
+1055,c_36,2025-09-08 06:01:51,network_x,display_ret,MX,desktop,blog,0.08,7.250.17.86,Edge
+328,c_147,2025-09-08 06:26:25,network_x,loan_cmp1,CO,desktop,homepage,1.36,48.194.224.136,Edge
+880,c_282,2025-09-08 06:49:38,network_x,loan_cmp2,VN,mobile,native_widget,0.71,157.87.146.163,Android WebView
+185,c_181,2025-09-08 07:26:46,network_x,cashback_promo,MX,desktop,homepage,0.19,232.59.78.124,Safari
+133,c_25,2025-09-08 07:53:00,network_x,display_ret,MX,mobile,native_widget,1.2,183.32.51.44,Safari
+1050,c_384,2025-09-08 08:28:04,facebook_ads,display_ret,MX,mobile,blog,0.44,43.120.220.46,Edge
+703,c_400,2025-09-08 08:56:01,google_ads,cashback_promo,CO,mobile,comparison,0.4,74.99.215.241,Edge
+865,c_481,2025-09-08 08:59:16,facebook_ads,loan_cmp1,KZ,mobile,comparison,1.22,60.226.250.48,Android WebView
+810,c_440,2025-09-08 09:02:23,email_aff,brand_search,MX,mobile,popup,1.2,180.99.74.34,Edge
+594,c_362,2025-09-08 09:48:41,google_ads,cashback_promo,CO,mobile,comparison,1.41,76.231.204.194,Android WebView
+460,c_467,2025-09-08 10:09:21,botnet_01,loan_cmp2,MX,desktop,comparison,0.51,10.10.10.10,Android WebView
+18,c_148,2025-09-08 10:25:04,tiktok_ads,cashback_promo,KZ,desktop,blog,1.03,185.217.178.151,Safari
+419,c_52,2025-09-08 11:19:05,tiktok_ads,loan_cmp1,VN,desktop,popup,0.81,115.26.151.43,Android WebView
+805,c_254,2025-09-08 12:38:30,google_ads,cashback_promo,VN,tablet,homepage,1.45,57.250.228.66,Safari
+95,c_76,2025-09-08 13:00:28,google_ads,display_ret,MX,desktop,comparison,1.01,199.138.173.145,Safari
+32,c_396,2025-09-08 15:42:36,facebook_ads,display_ret,KZ,mobile,homepage,0.46,16.189.231.192,Android WebView
+377,c_18,2025-09-08 15:42:41,google_ads,lookalike,CO,mobile,comparison,0.86,180.241.200.247,Firefox
+125,c_208,2025-09-08 20:38:38,tiktok_ads,cashback_promo,MX,mobile,native_widget,0.71,50.244.199.131,Android WebView
+281,c_107,2025-09-08 21:10:53,facebook_ads,display_ret,KZ,desktop,blog,1.09,239.94.65.171,Chrome
+278,c_78,2025-09-08 21:27:07,tiktok_ads,loan_cmp1,CO,mobile,native_widget,1.35,108.161.209.240,Firefox
+270,c_188,2025-09-08 21:30:03,facebook_ads,brand_search,MX,mobile,homepage,1.47,27.246.181.170,Firefox
+559,c_395,2025-09-08 21:43:14,facebook_ads,brand_search,CO,desktop,native_widget,0.97,85.192.248.20,Safari
+1111,c_201,2025-09-08 22:00:39,google_ads,lookalike,MX,mobile,blog,0.39,176.158.58.86,Chrome
+441,c_220,2025-09-08 22:10:23,facebook_ads,loan_cmp2,KZ,desktop,blog,1.45,231.94.173.13,Android WebView
+768,c_450,2025-09-08 22:29:41,google_ads,lookalike,VN,mobile,popup,0.25,200.137.90.130,Android WebView
+699,c_209,2025-09-08 22:41:58,tiktok_ads,brand_search,MX,mobile,native_widget,0.77,171.44.110.196,Chrome
+1141,c_309,2025-09-09 00:39:39,email_aff,brand_search,CO,mobile,blog,1.45,51.161.146.78,Android WebView
+502,c_330,2025-09-09 00:42:47,tiktok_ads,loan_cmp1,CO,mobile,popup,0.46,124.53.228.10,Android WebView
+973,c_273,2025-09-09 01:08:16,google_ads,cashback_promo,CO,desktop,native_widget,1.4,5.63.227.164,Chrome
+272,c_16,2025-09-09 01:13:46,tiktok_ads,loan_cmp1,CO,tablet,comparison,1.25,215.217.248.200,Android WebView
+855,c_279,2025-09-09 01:19:51,network_x,cashback_promo,CO,mobile,comparison,0.98,148.105.47.87,Android WebView
+231,c_245,2025-09-09 01:31:03,tiktok_ads,loan_cmp2,MX,desktop,homepage,0.18,41.17.88.21,Firefox
+623,c_495,2025-09-09 03:49:37,botnet_01,display_ret,CO,mobile,native_widget,1.27,10.10.10.10,Android WebView
+811,c_70,2025-09-09 04:53:49,facebook_ads,lookalike,KZ,desktop,homepage,0.58,183.95.147.62,Firefox
+1200,c_92,2025-09-09 05:06:45,tiktok_ads,loan_cmp1,CO,desktop,native_widget,0.4,245.234.119.35,Safari
+1157,c_452,2025-09-09 06:30:38,facebook_ads,loan_cmp1,KZ,tablet,native_widget,0.6,159.149.60.251,Safari
+43,c_133,2025-09-09 06:33:45,email_aff,loan_cmp1,MX,desktop,popup,1.26,145.253.230.7,Android WebView
+4,c_329,2025-09-09 06:38:17,google_ads,cashback_promo,KZ,mobile,blog,0.19,84.92.111.188,Edge
+705,c_194,2025-09-09 07:07:31,tiktok_ads,loan_cmp1,CO,mobile,blog,1.15,65.17.95.172,Safari
+303,c_128,2025-09-09 07:13:11,email_aff,cashback_promo,MX,desktop,blog,0.15,157.202.17.66,Safari
+784,c_400,2025-09-09 08:10:30,facebook_ads,display_ret,MX,mobile,homepage,0.16,173.246.35.28,Android WebView
+138,c_428,2025-09-09 09:45:33,facebook_ads,display_ret,MX,mobile,native_widget,0.19,125.111.14.248,Chrome
+775,c_284,2025-09-09 09:52:41,network_x,brand_search,MX,desktop,native_widget,0.51,76.69.101.159,Edge
+132,c_84,2025-09-09 10:14:37,tiktok_ads,loan_cmp2,VN,mobile,comparison,0.17,246.12.87.12,Android WebView
+1071,c_333,2025-09-09 10:22:02,facebook_ads,loan_cmp2,KZ,mobile,comparison,0.57,214.42.250.174,Chrome
+370,c_177,2025-09-09 10:35:34,facebook_ads,display_ret,CO,mobile,homepage,0.68,83.186.252.99,Firefox
+391,c_106,2025-09-09 11:38:58,google_ads,brand_search,CO,desktop,homepage,0.55,214.248.198.35,Chrome
+525,c_117,2025-09-09 12:28:41,facebook_ads,display_ret,VN,desktop,blog,0.72,102.219.188.128,Firefox
+129,c_148,2025-09-09 12:30:04,facebook_ads,display_ret,MX,mobile,homepage,0.17,77.116.154.150,Safari
+142,c_367,2025-09-09 13:13:34,network_x,cashback_promo,CO,desktop,blog,0.39,26.29.1.119,Firefox
+673,c_381,2025-09-09 14:03:37,facebook_ads,lookalike,CO,desktop,blog,1.46,164.245.79.8,Safari
+183,c_38,2025-09-09 14:29:21,google_ads,cashback_promo,VN,mobile,homepage,1.02,195.49.36.126,Edge
+401,c_318,2025-09-09 15:51:02,botnet_01,cashback_promo,VN,mobile,popup,0.21,10.10.10.10,Android WebView
+854,c_344,2025-09-09 18:01:52,network_x,lookalike,MX,tablet,homepage,0.8,131.239.26.181,Safari
+542,c_231,2025-09-09 18:07:22,email_aff,cashback_promo,MX,mobile,blog,0.79,21.24.230.4,Firefox
+843,c_9,2025-09-09 18:37:01,facebook_ads,cashback_promo,VN,mobile,native_widget,1.4,164.116.61.232,Chrome
+853,c_100,2025-09-09 18:43:16,google_ads,brand_search,VN,desktop,blog,0.83,3.211.156.3,Edge
+1039,c_102,2025-09-09 19:06:14,google_ads,brand_search,CO,mobile,native_widget,0.8,3.183.248.111,Chrome
+355,c_65,2025-09-09 19:39:04,tiktok_ads,display_ret,VN,desktop,blog,0.88,115.204.168.145,Safari
+1043,c_173,2025-09-09 19:44:22,tiktok_ads,lookalike,VN,desktop,homepage,0.14,73.216.213.233,Android WebView
+1132,c_343,2025-09-09 21:48:53,facebook_ads,loan_cmp1,VN,tablet,blog,0.13,143.37.186.5,Chrome
+942,c_265,2025-09-09 23:05:06,facebook_ads,display_ret,MX,desktop,blog,0.2,111.209.238.199,Edge
+1012,c_273,2025-09-09 23:11:08,facebook_ads,cashback_promo,MX,desktop,homepage,0.96,112.65.228.242,Edge
+259,c_53,2025-09-10 00:26:29,facebook_ads,brand_search,MX,mobile,blog,0.15,160.114.14.178,Edge
+750,c_485,2025-09-10 00:29:16,facebook_ads,brand_search,VN,mobile,popup,0.12,124.89.230.196,Edge
+1068,c_444,2025-09-10 01:23:28,network_x,brand_search,CO,desktop,blog,0.99,181.125.238.19,Android WebView
+655,c_413,2025-09-10 01:44:16,facebook_ads,lookalike,VN,tablet,popup,0.73,33.133.218.77,Firefox
+1184,c_254,2025-09-10 01:50:54,network_x,loan_cmp1,MX,tablet,native_widget,0.06,184.175.136.55,Safari
+878,c_478,2025-09-10 01:55:29,google_ads,display_ret,MX,mobile,comparison,1.49,32.149.10.37,Chrome
+407,c_316,2025-09-10 02:23:55,google_ads,cashback_promo,MX,mobile,native_widget,1.42,225.77.248.105,Safari
+681,c_139,2025-09-10 02:39:29,google_ads,cashback_promo,CO,mobile,blog,0.17,201.110.115.159,Safari
+832,c_308,2025-09-10 03:35:38,email_aff,brand_search,VN,mobile,blog,0.38,227.167.72.243,Safari
+360,c_422,2025-09-10 03:54:39,botnet_01,loan_cmp2,MX,desktop,comparison,0.18,10.10.10.10,Android WebView
+974,c_334,2025-09-10 04:15:30,email_aff,cashback_promo,CO,desktop,homepage,1.12,234.141.196.242,Firefox
+504,c_129,2025-09-10 04:22:14,email_aff,loan_cmp2,MX,mobile,popup,0.11,134.145.51.242,Firefox
+960,c_437,2025-09-10 04:50:43,google_ads,display_ret,KZ,desktop,homepage,0.43,233.216.214.241,Safari
+1110,c_51,2025-09-10 06:23:41,tiktok_ads,display_ret,VN,mobile,popup,1.41,244.253.95.11,Android WebView
+10,c_218,2025-09-10 06:30:19,google_ads,loan_cmp2,CO,mobile,blog,0.21,63.96.231.241,Edge
+1187,c_427,2025-09-10 06:54:43,google_ads,lookalike,VN,mobile,native_widget,1.07,31.66.204.91,Android WebView
+560,c_302,2025-09-10 08:28:12,facebook_ads,brand_search,CO,mobile,blog,1.1,36.84.109.118,Android WebView
+184,c_78,2025-09-10 09:42:44,google_ads,brand_search,CO,desktop,blog,0.23,91.232.2.118,Android WebView
+94,c_29,2025-09-10 10:37:23,google_ads,loan_cmp1,MX,tablet,native_widget,0.77,34.17.165.153,Safari
+733,c_445,2025-09-10 10:38:34,network_x,lookalike,MX,tablet,blog,0.66,205.57.81.231,Firefox
+143,c_198,2025-09-10 11:27:15,google_ads,lookalike,MX,mobile,popup,1.48,216.251.43.126,Safari
+725,c_268,2025-09-10 12:24:34,email_aff,loan_cmp2,MX,mobile,blog,0.28,60.235.157.178,Safari
+293,c_310,2025-09-10 13:05:35,tiktok_ads,brand_search,MX,mobile,blog,0.29,254.9.209.139,Safari
+210,c_379,2025-09-10 13:39:19,facebook_ads,lookalike,CO,desktop,popup,0.47,220.41.164.229,Android WebView
+683,c_104,2025-09-10 13:50:32,tiktok_ads,display_ret,MX,mobile,blog,0.34,47.13.217.66,Safari
+1089,c_92,2025-09-10 14:28:49,google_ads,lookalike,VN,mobile,blog,1.29,18.77.243.133,Edge
+29,c_63,2025-09-10 14:43:26,botnet_01,loan_cmp2,CO,desktop,popup,0.57,10.10.10.10,Android WebView
+714,c_280,2025-09-10 15:09:04,tiktok_ads,cashback_promo,CO,mobile,popup,1.47,237.61.123.93,Edge
+920,c_217,2025-09-10 15:46:22,facebook_ads,cashback_promo,CO,mobile,comparison,0.31,145.128.211.11,Android WebView
+1095,c_377,2025-09-10 15:47:58,facebook_ads,display_ret,VN,mobile,native_widget,1.35,215.223.132.116,Chrome
+1073,c_302,2025-09-10 18:54:38,email_aff,loan_cmp2,MX,mobile,comparison,1.48,98.31.12.243,Edge
+517,c_171,2025-09-10 19:44:11,email_aff,loan_cmp2,MX,desktop,comparison,1.43,95.146.80.232,Edge
+1067,c_52,2025-09-10 20:26:07,google_ads,loan_cmp1,MX,mobile,homepage,0.81,221.104.83.198,Edge
+721,c_65,2025-09-10 20:31:54,network_x,loan_cmp1,CO,mobile,comparison,0.85,164.56.111.218,Android WebView
+589,c_386,2025-09-10 21:13:27,network_x,display_ret,VN,mobile,comparison,1.29,247.176.192.241,Firefox
+243,c_75,2025-09-10 21:29:22,google_ads,display_ret,MX,desktop,comparison,0.08,59.125.143.245,Safari
+203,c_475,2025-09-10 21:31:05,facebook_ads,display_ret,VN,mobile,native_widget,0.66,128.142.57.165,Safari
+576,c_270,2025-09-10 22:06:09,botnet_01,display_ret,CO,desktop,native_widget,1.37,10.10.10.10,Android WebView
+531,c_87,2025-09-10 22:50:34,email_aff,loan_cmp1,VN,tablet,blog,0.83,17.27.175.2,Edge
+309,c_385,2025-09-10 22:51:29,google_ads,brand_search,VN,desktop,homepage,1.13,178.163.244.251,Android WebView
+1021,c_442,2025-09-10 23:45:04,google_ads,lookalike,MX,mobile,homepage,1.21,240.250.58.79,Chrome
+583,c_313,2025-09-11 01:54:22,botnet_01,lookalike,VN,mobile,native_widget,0.08,10.10.10.10,Android WebView
+197,c_161,2025-09-11 04:01:12,facebook_ads,cashback_promo,CO,desktop,popup,1.43,69.249.244.61,Safari
+1108,c_105,2025-09-11 04:35:55,facebook_ads,loan_cmp2,VN,mobile,popup,0.68,19.48.224.207,Android WebView
+644,c_443,2025-09-11 04:47:01,facebook_ads,brand_search,VN,mobile,blog,1.45,190.175.34.228,Android WebView
+262,c_264,2025-09-11 05:16:48,google_ads,loan_cmp1,KZ,desktop,popup,0.24,137.155.162.172,Edge
+122,c_465,2025-09-11 06:30:11,google_ads,brand_search,MX,mobile,native_widget,1.27,175.206.84.22,Firefox
+1116,c_449,2025-09-11 06:53:09,google_ads,lookalike,CO,desktop,native_widget,0.72,227.6.67.62,Android WebView
+148,c_161,2025-09-11 07:12:03,facebook_ads,loan_cmp1,VN,mobile,homepage,0.99,102.238.132.102,Firefox
+1148,c_185,2025-09-11 07:38:04,facebook_ads,loan_cmp1,VN,mobile,popup,0.55,129.236.183.15,Android WebView
+121,c_227,2025-09-11 08:07:21,tiktok_ads,cashback_promo,MX,desktop,comparison,0.05,226.174.226.29,Edge
+423,c_116,2025-09-11 08:22:13,email_aff,lookalike,KZ,mobile,blog,0.85,173.23.242.28,Firefox
+364,c_286,2025-09-11 08:31:16,botnet_01,display_ret,MX,mobile,native_widget,1.16,10.10.10.10,Android WebView
+404,c_187,2025-09-11 08:50:31,facebook_ads,display_ret,CO,mobile,native_widget,1.24,119.85.4.71,Safari
+635,c_109,2025-09-11 10:45:44,network_x,display_ret,VN,mobile,popup,0.99,47.231.71.166,Firefox
+783,c_368,2025-09-11 12:55:53,facebook_ads,cashback_promo,MX,mobile,blog,0.85,92.227.31.205,Firefox
+1177,c_378,2025-09-11 13:23:17,network_x,display_ret,MX,mobile,popup,0.45,89.189.1.217,Safari
+215,c_265,2025-09-11 14:29:02,network_x,display_ret,MX,mobile,homepage,0.99,201.213.216.226,Firefox
+678,c_8,2025-09-11 14:30:43,facebook_ads,lookalike,MX,desktop,homepage,1.22,130.37.129.132,Edge
+275,c_199,2025-09-11 15:29:11,google_ads,display_ret,VN,desktop,comparison,0.97,239.95.156.203,Firefox
+187,c_268,2025-09-11 16:05:41,network_x,display_ret,CO,desktop,popup,1.14,89.22.92.29,Android WebView
+967,c_88,2025-09-11 16:22:22,tiktok_ads,display_ret,MX,desktop,popup,0.73,190.229.134.19,Safari
+52,c_5,2025-09-11 17:18:12,google_ads,brand_search,VN,mobile,homepage,1.14,217.86.59.27,Chrome
+927,c_263,2025-09-11 17:59:56,google_ads,loan_cmp2,VN,mobile,homepage,0.25,229.133.221.96,Edge
+604,c_120,2025-09-11 18:26:34,tiktok_ads,cashback_promo,CO,tablet,native_widget,1.18,189.253.222.127,Chrome
+709,c_442,2025-09-11 18:54:09,google_ads,brand_search,MX,desktop,blog,0.46,90.72.70.30,Safari
+718,c_313,2025-09-11 19:43:55,google_ads,lookalike,CO,tablet,native_widget,0.49,86.92.24.221,Chrome
+957,c_379,2025-09-11 20:55:50,botnet_01,lookalike,VN,mobile,blog,0.45,10.10.10.10,Android WebView
+521,c_324,2025-09-11 21:32:07,tiktok_ads,display_ret,KZ,desktop,comparison,0.73,218.80.185.111,Android WebView
+947,c_254,2025-09-11 21:46:53,google_ads,loan_cmp1,VN,mobile,comparison,1.17,231.48.67.221,Firefox
+232,c_59,2025-09-11 23:07:56,tiktok_ads,brand_search,MX,mobile,comparison,1.4,45.1.168.108,Firefox
+1011,c_461,2025-09-11 23:15:49,google_ads,lookalike,MX,mobile,blog,1.11,115.240.39.202,Edge
+172,c_141,2025-09-11 23:57:49,network_x,cashback_promo,CO,desktop,native_widget,0.92,151.211.31.243,Android WebView
+738,c_68,2025-09-12 00:33:06,facebook_ads,loan_cmp1,MX,mobile,homepage,0.13,234.184.23.18,Chrome
+726,c_329,2025-09-12 00:49:23,google_ads,cashback_promo,MX,desktop,homepage,0.42,43.57.50.196,Chrome
+447,c_343,2025-09-12 00:52:39,google_ads,loan_cmp1,CO,mobile,native_widget,1.13,168.179.170.135,Safari
+640,c_96,2025-09-12 02:41:56,tiktok_ads,cashback_promo,VN,tablet,homepage,1.17,251.148.133.23,Chrome
+443,c_439,2025-09-12 02:45:43,email_aff,lookalike,MX,mobile,native_widget,0.63,51.171.119.214,Firefox
+680,c_400,2025-09-12 04:07:35,email_aff,loan_cmp1,MX,mobile,native_widget,1.41,69.114.147.239,Firefox
+495,c_410,2025-09-12 04:11:56,botnet_01,loan_cmp2,VN,desktop,blog,0.95,10.10.10.10,Android WebView
+397,c_388,2025-09-12 04:35:24,botnet_01,display_ret,MX,mobile,popup,1.26,10.10.10.10,Android WebView
+825,c_178,2025-09-12 04:44:05,network_x,display_ret,MX,mobile,native_widget,0.31,19.208.159.115,Firefox
+92,c_20,2025-09-12 04:56:11,tiktok_ads,loan_cmp2,VN,desktop,native_widget,0.25,202.158.120.59,Chrome
+970,c_17,2025-09-12 05:13:50,google_ads,brand_search,KZ,desktop,homepage,1.33,11.8.183.224,Android WebView
+693,c_177,2025-09-12 05:55:29,email_aff,lookalike,CO,desktop,comparison,0.48,254.23.206.94,Chrome
+1085,c_466,2025-09-12 07:09:01,tiktok_ads,cashback_promo,MX,mobile,blog,0.72,2.158.30.82,Edge
+478,c_207,2025-09-12 07:14:41,email_aff,loan_cmp2,VN,desktop,homepage,1.37,125.129.52.85,Android WebView
+610,c_447,2025-09-12 08:04:46,network_x,brand_search,VN,mobile,comparison,1.02,165.207.29.114,Firefox
+864,c_156,2025-09-12 08:10:10,tiktok_ads,brand_search,MX,desktop,popup,0.72,233.10.86.102,Chrome
+269,c_470,2025-09-12 10:00:21,email_aff,loan_cmp2,CO,mobile,homepage,0.44,29.171.153.228,Safari
+200,c_419,2025-09-12 10:17:31,facebook_ads,brand_search,MX,desktop,popup,0.63,84.152.217.36,Android WebView
+968,c_80,2025-09-12 10:43:42,email_aff,loan_cmp1,CO,desktop,popup,1.04,80.191.42.64,Android WebView
+950,c_79,2025-09-12 12:55:53,network_x,brand_search,CO,mobile,comparison,0.95,218.100.168.193,Firefox
+395,c_11,2025-09-12 13:07:04,network_x,loan_cmp2,KZ,desktop,blog,0.66,54.251.75.16,Chrome
+752,c_480,2025-09-12 14:30:34,email_aff,lookalike,CO,desktop,native_widget,1.38,32.57.166.188,Safari
+969,c_361,2025-09-12 15:29:06,network_x,loan_cmp1,CO,desktop,blog,0.37,204.211.202.62,Chrome
+3,c_475,2025-09-12 15:48:06,tiktok_ads,display_ret,MX,tablet,comparison,1.48,249.131.229.51,Android WebView
+647,c_209,2025-09-12 15:56:18,botnet_01,brand_search,KZ,mobile,homepage,1.22,10.10.10.10,Android WebView
+541,c_416,2025-09-12 16:07:11,google_ads,loan_cmp2,CO,desktop,native_widget,0.37,13.120.66.4,Safari
+513,c_416,2025-09-12 17:04:25,facebook_ads,cashback_promo,VN,mobile,comparison,1.42,151.221.85.240,Android WebView
+545,c_474,2025-09-12 17:30:44,facebook_ads,lookalike,VN,desktop,blog,1.05,39.13.41.57,Android WebView
+490,c_14,2025-09-12 17:42:32,email_aff,cashback_promo,KZ,mobile,comparison,0.51,155.15.220.229,Firefox
+12,c_66,2025-09-12 19:12:43,tiktok_ads,loan_cmp2,CO,mobile,popup,0.65,190.75.128.250,Edge
+396,c_243,2025-09-12 19:28:42,facebook_ads,loan_cmp1,VN,tablet,homepage,0.49,48.42.76.188,Android WebView
+156,c_426,2025-09-12 19:43:51,google_ads,cashback_promo,CO,desktop,homepage,0.81,47.123.141.119,Android WebView
+946,c_490,2025-09-12 20:38:03,tiktok_ads,lookalike,MX,desktop,native_widget,0.19,101.57.57.34,Safari
+1160,c_351,2025-09-12 21:54:32,tiktok_ads,cashback_promo,MX,mobile,blog,0.19,190.236.154.57,Android WebView
+433,c_259,2025-09-12 22:38:22,google_ads,display_ret,MX,desktop,homepage,1.24,68.123.210.196,Chrome
+1188,c_421,2025-09-12 22:48:16,google_ads,brand_search,MX,mobile,popup,0.69,49.113.114.194,Chrome
+1183,c_477,2025-09-12 23:05:30,tiktok_ads,cashback_promo,VN,mobile,blog,1.32,48.63.12.215,Safari
+547,c_184,2025-09-13 01:04:40,tiktok_ads,cashback_promo,CO,desktop,comparison,0.23,20.185.226.178,Chrome
+981,c_442,2025-09-13 01:30:00,tiktok_ads,lookalike,CO,desktop,popup,0.66,203.33.88.194,Chrome
+763,c_210,2025-09-13 01:33:27,tiktok_ads,display_ret,KZ,mobile,native_widget,1.41,199.228.163.15,Firefox
+1102,c_373,2025-09-13 02:11:23,network_x,display_ret,MX,mobile,homepage,0.11,46.143.195.15,Firefox
+773,c_250,2025-09-13 02:13:27,google_ads,display_ret,MX,mobile,comparison,0.47,172.60.175.40,Firefox
+1173,c_279,2025-09-13 02:57:43,network_x,cashback_promo,MX,desktop,blog,0.55,159.244.176.100,Android WebView
+729,c_31,2025-09-13 03:20:02,google_ads,loan_cmp2,CO,mobile,comparison,0.8,46.85.202.80,Edge
+1016,c_264,2025-09-13 04:17:47,google_ads,loan_cmp1,CO,mobile,blog,0.6,213.37.72.27,Firefox
+1119,c_275,2025-09-13 04:23:17,tiktok_ads,loan_cmp2,VN,mobile,comparison,1.33,39.239.13.122,Edge
+378,c_61,2025-09-13 05:38:36,email_aff,display_ret,CO,mobile,comparison,0.38,59.240.2.193,Edge
+772,c_57,2025-09-13 05:42:46,botnet_01,display_ret,MX,desktop,homepage,0.78,10.10.10.10,Android WebView
+512,c_329,2025-09-13 06:01:12,facebook_ads,loan_cmp1,CO,desktop,popup,0.24,178.143.106.248,Edge
+754,c_149,2025-09-13 06:53:03,email_aff,brand_search,MX,mobile,homepage,1.11,123.33.1.204,Chrome
+1036,c_187,2025-09-13 06:55:11,network_x,display_ret,MX,desktop,comparison,0.98,11.157.162.214,Firefox
+65,c_25,2025-09-13 07:25:34,network_x,cashback_promo,CO,desktop,homepage,0.9,214.34.111.8,Chrome
+256,c_355,2025-09-13 07:50:20,tiktok_ads,loan_cmp2,VN,tablet,blog,0.2,102.16.66.168,Chrome
+1038,c_120,2025-09-13 09:28:56,network_x,brand_search,MX,mobile,comparison,0.52,74.226.238.77,Android WebView
+329,c_239,2025-09-13 10:15:45,tiktok_ads,cashback_promo,VN,mobile,homepage,0.59,45.246.79.20,Android WebView
+800,c_379,2025-09-13 10:45:25,facebook_ads,lookalike,MX,tablet,popup,0.32,133.217.86.220,Edge
+467,c_361,2025-09-13 11:39:44,google_ads,loan_cmp1,MX,desktop,homepage,0.13,79.236.78.121,Android WebView
+713,c_309,2025-09-13 12:01:46,network_x,loan_cmp2,VN,desktop,native_widget,1.34,19.149.219.122,Firefox
+744,c_187,2025-09-13 12:09:04,facebook_ads,display_ret,VN,desktop,native_widget,1.32,248.69.120.67,Android WebView
+757,c_400,2025-09-13 12:27:51,facebook_ads,cashback_promo,VN,tablet,homepage,1.03,12.169.3.227,Chrome
+943,c_16,2025-09-13 13:05:09,tiktok_ads,cashback_promo,CO,desktop,native_widget,1.26,254.197.177.39,Safari
+1181,c_88,2025-09-13 13:41:22,google_ads,brand_search,CO,desktop,popup,0.75,235.220.7.26,Firefox
+1186,c_481,2025-09-13 14:30:37,facebook_ads,loan_cmp2,KZ,mobile,comparison,0.85,117.214.210.48,Android WebView
+956,c_121,2025-09-13 15:21:08,network_x,cashback_promo,CO,desktop,homepage,0.61,163.19.142.176,Chrome
+700,c_152,2025-09-13 16:02:25,google_ads,brand_search,MX,mobile,homepage,1.5,240.229.63.84,Chrome
+1026,c_416,2025-09-13 16:36:39,facebook_ads,cashback_promo,VN,mobile,blog,0.53,83.111.108.111,Chrome
+127,c_444,2025-09-13 16:41:52,google_ads,loan_cmp2,MX,mobile,comparison,0.07,18.222.64.82,Firefox
+381,c_191,2025-09-13 17:24:31,email_aff,display_ret,VN,mobile,comparison,0.58,175.17.17.246,Safari
+819,c_446,2025-09-13 17:26:21,tiktok_ads,display_ret,MX,desktop,blog,0.53,197.131.37.37,Android WebView
+743,c_161,2025-09-13 17:30:27,network_x,loan_cmp2,MX,desktop,homepage,1.02,74.41.223.77,Firefox
+233,c_332,2025-09-13 17:48:09,network_x,loan_cmp1,VN,mobile,homepage,1.43,250.197.8.153,Firefox
+1174,c_112,2025-09-13 18:15:00,facebook_ads,lookalike,CO,mobile,native_widget,0.24,232.199.238.231,Safari
+1155,c_198,2025-09-13 19:36:25,facebook_ads,loan_cmp1,VN,mobile,popup,0.63,32.136.118.40,Firefox
+793,c_221,2025-09-13 20:14:54,email_aff,lookalike,MX,mobile,blog,1.27,61.182.8.29,Chrome
+245,c_401,2025-09-13 21:14:09,facebook_ads,loan_cmp2,CO,desktop,homepage,0.29,53.123.87.179,Firefox
+990,c_411,2025-09-13 21:34:41,tiktok_ads,display_ret,MX,desktop,native_widget,0.21,61.174.69.114,Firefox
+1115,c_273,2025-09-13 21:47:17,facebook_ads,display_ret,VN,tablet,blog,0.44,111.160.10.91,Chrome
+411,c_146,2025-09-13 22:01:07,google_ads,display_ret,KZ,mobile,popup,1.1,127.80.189.100,Chrome
+567,c_482,2025-09-13 23:26:01,tiktok_ads,display_ret,MX,mobile,comparison,0.05,226.103.41.234,Safari
+79,c_254,2025-09-14 00:40:43,network_x,loan_cmp2,MX,mobile,blog,1.37,104.190.210.217,Chrome
+602,c_289,2025-09-14 01:18:20,network_x,brand_search,CO,desktop,blog,0.62,19.181.103.184,Android WebView
+223,c_424,2025-09-14 03:07:20,facebook_ads,brand_search,MX,mobile,homepage,0.48,222.41.196.251,Edge
+838,c_205,2025-09-14 03:07:24,google_ads,lookalike,MX,desktop,popup,0.7,128.219.212.239,Firefox
+884,c_141,2025-09-14 03:16:45,facebook_ads,cashback_promo,VN,mobile,comparison,1.05,140.41.230.26,Safari
+161,c_302,2025-09-14 03:25:23,google_ads,display_ret,MX,tablet,native_widget,0.17,97.164.131.73,Chrome
+839,c_245,2025-09-14 03:44:13,google_ads,cashback_promo,CO,desktop,homepage,1.3,142.193.80.82,Chrome
+344,c_268,2025-09-14 03:53:46,tiktok_ads,loan_cmp2,VN,mobile,homepage,1.43,189.146.155.55,Safari
+806,c_245,2025-09-14 04:37:41,email_aff,display_ret,MX,tablet,homepage,0.53,66.167.73.252,Firefox
+691,c_245,2025-09-14 04:47:56,facebook_ads,loan_cmp2,MX,mobile,homepage,0.06,143.96.33.145,Android WebView
+979,c_71,2025-09-14 05:26:25,network_x,display_ret,MX,mobile,native_widget,0.86,109.119.198.229,Android WebView
+288,c_116,2025-09-14 05:49:14,google_ads,brand_search,MX,mobile,popup,0.15,15.227.165.129,Firefox
+462,c_26,2025-09-14 06:31:14,google_ads,loan_cmp2,MX,mobile,native_widget,1.43,21.54.184.103,Firefox
+1025,c_456,2025-09-14 06:48:16,google_ads,brand_search,MX,mobile,homepage,1.19,188.103.90.90,Chrome
+249,c_246,2025-09-14 08:14:49,email_aff,cashback_promo,MX,mobile,homepage,1.42,17.115.147.154,Edge
+1142,c_385,2025-09-14 08:19:05,botnet_01,cashback_promo,CO,desktop,blog,0.54,10.10.10.10,Android WebView
+959,c_29,2025-09-14 08:26:23,tiktok_ads,loan_cmp1,CO,mobile,popup,0.38,117.24.218.175,Safari
+607,c_101,2025-09-14 08:40:25,google_ads,display_ret,CO,mobile,homepage,1.32,46.122.31.216,Firefox
+422,c_396,2025-09-14 09:16:07,email_aff,loan_cmp2,MX,tablet,native_widget,1.39,13.89.125.118,Chrome
+313,c_443,2025-09-14 09:17:38,facebook_ads,loan_cmp2,MX,mobile,comparison,1.17,209.73.253.134,Firefox
+54,c_53,2025-09-14 09:40:16,network_x,display_ret,MX,desktop,homepage,1.43,205.4.190.193,Chrome
+24,c_4,2025-09-14 10:03:32,google_ads,brand_search,MX,tablet,native_widget,1.33,124.233.37.24,Android WebView
+154,c_470,2025-09-14 10:06:18,google_ads,loan_cmp2,CO,desktop,popup,1.4,156.35.136.144,Safari
+424,c_367,2025-09-14 10:06:26,facebook_ads,brand_search,MX,desktop,popup,1.0,17.195.208.238,Edge
+612,c_123,2025-09-14 10:50:29,email_aff,lookalike,VN,desktop,blog,0.64,137.227.139.191,Edge
+382,c_141,2025-09-14 11:43:42,google_ads,brand_search,MX,tablet,comparison,0.25,143.54.253.27,Android WebView
+1062,c_216,2025-09-14 11:44:47,google_ads,loan_cmp2,MX,desktop,comparison,1.33,245.56.12.224,Edge
+861,c_264,2025-09-14 12:21:38,botnet_01,lookalike,VN,desktop,blog,1.42,10.10.10.10,Android WebView
+748,c_131,2025-09-14 13:54:04,facebook_ads,display_ret,CO,mobile,blog,0.94,225.242.152.201,Android WebView
+548,c_396,2025-09-14 13:59:01,google_ads,brand_search,CO,desktop,comparison,1.22,214.84.89.79,Edge
+41,c_100,2025-09-14 14:25:34,google_ads,brand_search,VN,desktop,popup,1.43,83.250.111.144,Android WebView
+798,c_364,2025-09-14 15:36:34,tiktok_ads,display_ret,VN,mobile,native_widget,0.44,111.230.10.155,Edge
+875,c_425,2025-09-14 16:14:05,google_ads,cashback_promo,CO,mobile,comparison,0.95,33.44.20.245,Edge
+343,c_74,2025-09-14 20:06:14,google_ads,brand_search,MX,mobile,comparison,0.95,191.59.133.51,Android WebView
+169,c_291,2025-09-14 20:30:00,email_aff,display_ret,VN,mobile,popup,0.52,163.66.91.130,Firefox
+938,c_340,2025-09-14 21:07:34,google_ads,loan_cmp2,MX,mobile,blog,1.46,13.47.44.105,Safari
+21,c_254,2025-09-14 21:31:45,google_ads,loan_cmp2,KZ,tablet,blog,1.05,208.189.169.228,Chrome
+731,c_361,2025-09-14 21:47:47,tiktok_ads,loan_cmp1,VN,tablet,native_widget,0.29,213.154.121.228,Firefox
+366,c_227,2025-09-14 21:54:00,email_aff,brand_search,MX,mobile,native_widget,0.93,72.155.190.12,Chrome
+654,c_118,2025-09-14 23:03:19,facebook_ads,brand_search,VN,mobile,homepage,1.33,149.46.144.238,Edge
+186,c_473,2025-09-14 23:21:20,google_ads,cashback_promo,MX,desktop,comparison,0.99,227.122.32.222,Chrome
+909,c_42,2025-09-15 00:04:20,network_x,cashback_promo,MX,desktop,blog,0.51,124.37.162.201,Safari
+1147,c_103,2025-09-15 01:08:52,google_ads,brand_search,VN,mobile,homepage,1.3,117.84.72.96,Android WebView
+251,c_242,2025-09-15 01:42:22,email_aff,loan_cmp1,KZ,mobile,comparison,0.91,135.109.163.48,Chrome
+316,c_214,2025-09-15 02:01:36,tiktok_ads,loan_cmp1,CO,desktop,popup,1.16,206.166.242.121,Chrome
+189,c_184,2025-09-15 02:38:16,tiktok_ads,loan_cmp2,CO,mobile,popup,1.15,111.136.106.186,Chrome
+638,c_349,2025-09-15 02:49:10,network_x,display_ret,MX,desktop,homepage,0.67,140.96.89.103,Safari
+398,c_469,2025-09-15 04:26:12,google_ads,display_ret,MX,mobile,native_widget,0.17,144.14.202.71,Android WebView
+208,c_20,2025-09-15 05:02:13,tiktok_ads,cashback_promo,VN,mobile,native_widget,0.28,14.155.125.233,Safari
+1044,c_208,2025-09-15 05:27:02,google_ads,brand_search,CO,desktop,homepage,0.53,69.184.9.236,Edge
+405,c_367,2025-09-15 06:01:24,network_x,brand_search,VN,tablet,homepage,1.16,130.106.24.4,Edge
+1093,c_8,2025-09-15 06:33:54,network_x,cashback_promo,CO,mobile,comparison,1.34,251.211.57.92,Chrome
+549,c_369,2025-09-15 07:25:56,network_x,loan_cmp1,VN,desktop,blog,0.1,166.118.117.37,Firefox
+1121,c_96,2025-09-15 08:35:32,google_ads,display_ret,MX,mobile,blog,0.74,117.43.82.151,Android WebView
+1128,c_415,2025-09-15 08:45:09,botnet_01,loan_cmp2,MX,desktop,popup,1.14,10.10.10.10,Android WebView
+159,c_483,2025-09-15 09:22:35,network_x,brand_search,MX,desktop,native_widget,0.35,11.138.201.78,Android WebView
+554,c_411,2025-09-15 10:20:01,google_ads,loan_cmp2,KZ,desktop,comparison,1.33,191.99.35.159,Edge
+466,c_380,2025-09-15 10:23:45,email_aff,display_ret,CO,mobile,comparison,0.97,8.79.131.190,Android WebView
+1088,c_331,2025-09-15 10:36:58,facebook_ads,lookalike,VN,desktop,blog,0.56,190.156.224.153,Edge
+841,c_182,2025-09-15 11:02:39,network_x,lookalike,KZ,desktop,comparison,1.45,55.225.44.18,Edge
+113,c_476,2025-09-15 11:48:40,tiktok_ads,lookalike,KZ,mobile,homepage,0.85,187.226.216.124,Firefox
+869,c_460,2025-09-15 12:30:28,tiktok_ads,cashback_promo,VN,mobile,homepage,0.34,209.78.28.219,Safari
+868,c_71,2025-09-15 13:52:34,tiktok_ads,display_ret,MX,desktop,native_widget,0.66,254.15.130.61,Firefox
+741,c_282,2025-09-15 14:08:54,facebook_ads,lookalike,CO,mobile,native_widget,0.93,193.244.61.246,Firefox
+1176,c_416,2025-09-15 14:10:42,facebook_ads,brand_search,KZ,desktop,popup,1.46,121.63.136.223,Android WebView
+362,c_433,2025-09-15 14:12:28,tiktok_ads,loan_cmp1,MX,desktop,homepage,0.19,58.72.242.219,Android WebView
+153,c_427,2025-09-15 15:34:48,google_ads,lookalike,MX,mobile,popup,1.0,51.15.68.21,Android WebView
+137,c_186,2025-09-15 15:50:56,network_x,cashback_promo,MX,mobile,native_widget,0.24,8.100.240.222,Safari
+311,c_212,2025-09-15 16:42:08,google_ads,brand_search,VN,desktop,popup,0.36,69.43.176.34,Firefox
+274,c_104,2025-09-15 17:00:15,network_x,loan_cmp1,CO,mobile,comparison,0.16,233.17.59.90,Edge
+141,c_460,2025-09-15 19:54:12,email_aff,loan_cmp2,MX,desktop,native_widget,0.82,49.241.120.44,Edge
+565,c_65,2025-09-15 20:24:34,google_ads,lookalike,KZ,desktop,homepage,1.08,75.216.214.192,Edge
+152,c_153,2025-09-15 20:29:30,facebook_ads,display_ret,CO,desktop,popup,1.16,70.46.242.108,Firefox
+600,c_137,2025-09-15 20:42:11,google_ads,display_ret,CO,desktop,blog,0.19,69.214.208.169,Safari
+51,c_397,2025-09-15 21:01:12,network_x,loan_cmp1,KZ,mobile,native_widget,0.66,56.30.242.251,Android WebView
+276,c_321,2025-09-15 22:19:20,facebook_ads,cashback_promo,MX,mobile,homepage,1.05,26.241.114.5,Edge
+108,c_324,2025-09-15 22:24:48,email_aff,loan_cmp1,MX,desktop,homepage,0.62,196.140.187.250,Android WebView
+123,c_27,2025-09-15 22:44:31,network_x,loan_cmp2,MX,mobile,native_widget,1.29,84.6.147.185,Android WebView
+1171,c_145,2025-09-15 22:47:05,email_aff,lookalike,MX,mobile,popup,1.03,125.196.145.209,Edge
+1076,c_169,2025-09-15 23:28:02,network_x,brand_search,MX,tablet,native_widget,1.44,242.174.16.142,Chrome
+277,c_308,2025-09-15 23:31:43,google_ads,loan_cmp2,CO,desktop,blog,0.78,21.46.197.134,Safari
+323,c_118,2025-09-15 23:41:20,google_ads,cashback_promo,CO,tablet,homepage,0.67,19.195.74.168,Safari
+992,c_280,2025-09-15 23:45:50,tiktok_ads,cashback_promo,CO,tablet,comparison,0.1,174.103.121.163,Chrome
+893,c_419,2025-09-16 00:39:26,facebook_ads,lookalike,CO,mobile,popup,0.8,85.109.17.168,Android WebView
+417,c_383,2025-09-16 00:49:54,facebook_ads,brand_search,CO,mobile,native_widget,0.58,188.163.197.219,Edge
+1080,c_499,2025-09-16 01:33:50,google_ads,loan_cmp2,VN,mobile,blog,0.9,76.226.10.69,Android WebView
+341,c_500,2025-09-16 01:50:44,network_x,loan_cmp1,VN,mobile,popup,0.39,166.159.206.152,Safari
+627,c_252,2025-09-16 02:29:58,email_aff,loan_cmp2,VN,desktop,comparison,0.75,49.46.38.136,Android WebView
+438,c_425,2025-09-16 02:43:57,network_x,brand_search,CO,desktop,comparison,0.71,113.217.50.12,Chrome
+385,c_419,2025-09-16 02:51:23,google_ads,lookalike,MX,mobile,blog,1.23,61.125.145.71,Firefox
+762,c_30,2025-09-16 02:55:32,facebook_ads,brand_search,MX,mobile,blog,0.55,77.32.237.47,Firefox
+608,c_479,2025-09-16 03:42:15,facebook_ads,brand_search,CO,desktop,blog,1.42,246.91.25.187,Edge
+550,c_479,2025-09-16 04:46:45,facebook_ads,display_ret,CO,tablet,homepage,0.9,98.156.2.94,Android WebView
+901,c_413,2025-09-16 04:54:35,facebook_ads,loan_cmp2,CO,mobile,blog,1.16,97.121.141.87,Android WebView
+922,c_326,2025-09-16 05:24:25,network_x,cashback_promo,KZ,mobile,homepage,1.27,157.206.4.44,Safari
+487,c_215,2025-09-16 05:26:12,facebook_ads,display_ret,MX,desktop,native_widget,0.61,173.88.168.110,Chrome
+445,c_127,2025-09-16 05:48:43,facebook_ads,loan_cmp2,CO,mobile,popup,1.49,72.236.183.247,Android WebView
+656,c_377,2025-09-16 05:53:02,tiktok_ads,lookalike,MX,mobile,comparison,0.22,156.172.221.171,Chrome
+1031,c_157,2025-09-16 06:36:05,google_ads,lookalike,VN,mobile,blog,1.3,21.15.163.112,Android WebView
+931,c_60,2025-09-16 06:41:42,tiktok_ads,display_ret,VN,mobile,popup,0.33,111.104.77.204,Safari
+803,c_185,2025-09-16 07:54:11,facebook_ads,brand_search,VN,mobile,homepage,1.01,97.119.95.70,Safari
+386,c_50,2025-09-16 08:05:34,google_ads,cashback_promo,CO,mobile,native_widget,0.62,68.40.187.208,Edge
+668,c_150,2025-09-16 08:08:29,google_ads,display_ret,VN,mobile,comparison,0.4,208.197.16.129,Firefox
+266,c_455,2025-09-16 08:08:40,email_aff,display_ret,CO,mobile,blog,1.0,203.54.184.214,Chrome
+898,c_396,2025-09-16 13:42:03,google_ads,loan_cmp2,MX,tablet,blog,1.01,54.26.213.94,Edge
+1123,c_89,2025-09-16 13:58:01,botnet_01,cashback_promo,VN,desktop,native_widget,0.26,10.10.10.10,Android WebView
+388,c_450,2025-09-16 14:46:58,network_x,cashback_promo,KZ,mobile,homepage,0.18,230.146.114.197,Android WebView
+702,c_389,2025-09-16 16:00:32,facebook_ads,lookalike,CO,mobile,blog,0.71,238.1.90.186,Chrome
+1193,c_235,2025-09-16 16:10:28,google_ads,lookalike,KZ,tablet,blog,1.46,203.134.3.14,Edge
+876,c_7,2025-09-16 17:25:51,tiktok_ads,lookalike,MX,mobile,blog,0.53,198.216.225.53,Firefox
+1046,c_38,2025-09-16 17:28:27,email_aff,loan_cmp2,VN,desktop,native_widget,0.54,233.243.146.185,Android WebView
+429,c_187,2025-09-16 17:55:50,facebook_ads,loan_cmp1,MX,tablet,blog,0.78,30.158.22.203,Safari
+599,c_472,2025-09-16 18:17:47,email_aff,brand_search,MX,mobile,popup,0.48,234.39.89.174,Edge
+771,c_317,2025-09-16 18:21:02,email_aff,brand_search,VN,mobile,popup,0.17,13.119.43.188,Android WebView
+1059,c_381,2025-09-16 18:24:12,tiktok_ads,display_ret,VN,mobile,blog,0.66,71.176.202.248,Chrome
+674,c_36,2025-09-16 18:25:54,google_ads,cashback_promo,VN,desktop,popup,0.47,170.101.29.127,Safari
+561,c_342,2025-09-16 19:31:49,network_x,brand_search,VN,desktop,popup,0.34,117.225.249.73,Chrome
+357,c_428,2025-09-16 19:44:54,email_aff,cashback_promo,MX,mobile,blog,1.06,187.89.224.62,Android WebView
+983,c_396,2025-09-16 21:01:45,google_ads,display_ret,VN,mobile,popup,0.88,26.28.105.77,Android WebView
+147,c_302,2025-09-16 21:55:16,network_x,brand_search,MX,mobile,native_widget,0.89,190.220.194.242,Chrome
+1000,c_252,2025-09-16 22:15:40,google_ads,display_ret,MX,desktop,native_widget,1.13,227.47.247.147,Android WebView
+951,c_271,2025-09-16 22:36:37,facebook_ads,lookalike,MX,desktop,popup,0.54,146.175.209.30,Safari
+742,c_174,2025-09-16 23:59:08,tiktok_ads,loan_cmp2,CO,desktop,popup,1.31,140.55.51.102,Chrome
+319,c_36,2025-09-17 00:02:16,tiktok_ads,brand_search,CO,tablet,homepage,0.16,109.35.39.150,Chrome
+473,c_87,2025-09-17 00:03:48,email_aff,brand_search,MX,mobile,native_widget,1.05,189.170.209.79,Safari
+526,c_405,2025-09-17 00:19:28,google_ads,cashback_promo,KZ,mobile,native_widget,1.17,185.62.223.52,Android WebView
+777,c_380,2025-09-17 01:20:33,tiktok_ads,loan_cmp1,MX,mobile,blog,0.65,106.54.245.227,Edge
+1139,c_220,2025-09-17 01:35:02,botnet_01,cashback_promo,VN,desktop,native_widget,1.19,10.10.10.10,Android WebView
+936,c_16,2025-09-17 01:46:52,google_ads,loan_cmp2,CO,tablet,blog,1.43,213.60.59.213,Edge
+150,c_76,2025-09-17 02:28:47,tiktok_ads,loan_cmp1,MX,mobile,homepage,0.59,172.102.218.11,Firefox
+828,c_398,2025-09-17 03:56:33,google_ads,display_ret,VN,mobile,comparison,0.93,218.107.48.172,Android WebView
+1158,c_425,2025-09-17 04:12:34,google_ads,cashback_promo,MX,mobile,popup,0.16,14.177.205.233,Firefox
+325,c_413,2025-09-17 04:23:30,facebook_ads,display_ret,CO,desktop,blog,0.35,49.103.53.193,Chrome
+914,c_351,2025-09-17 05:15:32,network_x,cashback_promo,CO,mobile,comparison,0.28,67.126.86.19,Firefox
+301,c_481,2025-09-17 05:25:52,tiktok_ads,loan_cmp2,MX,desktop,popup,0.67,156.78.69.118,Firefox
+58,c_51,2025-09-17 05:32:43,email_aff,loan_cmp1,MX,tablet,blog,0.15,69.34.6.53,Safari
+1136,c_374,2025-09-17 06:35:03,email_aff,lookalike,MX,desktop,comparison,1.07,199.89.248.67,Android WebView
+146,c_193,2025-09-17 06:41:29,network_x,display_ret,MX,desktop,blog,1.31,232.113.76.219,Chrome
+1024,c_307,2025-09-17 06:44:36,google_ads,loan_cmp1,MX,tablet,homepage,0.33,53.184.40.107,Safari
+413,c_400,2025-09-17 07:00:56,network_x,loan_cmp2,MX,desktop,popup,0.72,44.98.5.109,Firefox
+304,c_325,2025-09-17 07:50:30,botnet_01,brand_search,VN,mobile,homepage,0.43,10.10.10.10,Android WebView
+237,c_117,2025-09-17 07:57:49,network_x,loan_cmp2,VN,tablet,blog,0.82,235.65.55.45,Safari
+953,c_278,2025-09-17 08:12:21,email_aff,loan_cmp1,CO,desktop,blog,0.43,110.30.122.149,Safari
+630,c_457,2025-09-17 08:35:36,botnet_01,lookalike,CO,mobile,homepage,1.09,10.10.10.10,Android WebView
+261,c_248,2025-09-17 08:51:37,tiktok_ads,lookalike,MX,mobile,homepage,1.09,214.38.209.87,Safari
+587,c_166,2025-09-17 09:35:50,google_ads,display_ret,CO,mobile,blog,0.37,186.70.206.150,Safari
+944,c_107,2025-09-17 09:43:00,botnet_01,loan_cmp1,CO,desktop,popup,1.43,10.10.10.10,Android WebView
+100,c_478,2025-09-17 09:56:12,google_ads,cashback_promo,MX,desktop,comparison,1.2,57.55.241.47,Edge
+1061,c_423,2025-09-17 10:11:59,botnet_01,loan_cmp2,CO,tablet,homepage,0.48,10.10.10.10,Android WebView
+1003,c_288,2025-09-17 12:22:08,facebook_ads,brand_search,KZ,tablet,blog,0.4,81.210.116.23,Safari
+935,c_309,2025-09-17 14:30:01,tiktok_ads,cashback_promo,MX,mobile,homepage,0.49,48.221.13.3,Safari
+1051,c_48,2025-09-17 14:31:15,facebook_ads,brand_search,MX,mobile,blog,0.82,170.44.209.117,Firefox
+508,c_110,2025-09-17 14:33:29,facebook_ads,loan_cmp1,VN,desktop,popup,0.87,161.175.13.40,Chrome
+1159,c_257,2025-09-17 15:42:58,botnet_01,display_ret,CO,desktop,comparison,0.82,10.10.10.10,Android WebView
+53,c_461,2025-09-17 16:41:40,google_ads,brand_search,CO,desktop,popup,1.5,102.3.181.23,Android WebView
+39,c_357,2025-09-17 18:11:50,email_aff,lookalike,KZ,mobile,blog,0.89,151.190.224.37,Edge
+383,c_241,2025-09-17 18:19:02,facebook_ads,lookalike,MX,mobile,blog,0.82,26.47.5.218,Edge
+22,c_68,2025-09-17 19:31:11,google_ads,loan_cmp1,MX,desktop,comparison,0.87,204.187.115.214,Android WebView
+177,c_213,2025-09-17 19:32:11,google_ads,loan_cmp1,KZ,mobile,comparison,0.99,149.52.183.117,Safari
+520,c_368,2025-09-17 19:45:01,botnet_01,lookalike,CO,mobile,blog,1.01,10.10.10.10,Android WebView
+363,c_279,2025-09-17 19:45:28,facebook_ads,lookalike,MX,tablet,native_widget,1.07,119.2.246.210,Chrome
+205,c_161,2025-09-17 20:56:55,google_ads,cashback_promo,CO,desktop,homepage,0.22,98.28.186.43,Chrome
+1009,c_294,2025-09-17 21:06:16,tiktok_ads,cashback_promo,CO,desktop,comparison,1.26,52.221.231.210,Edge
+704,c_23,2025-09-17 21:08:41,tiktok_ads,loan_cmp1,CO,desktop,homepage,1.12,215.192.160.116,Android WebView
+945,c_102,2025-09-17 21:29:55,tiktok_ads,cashback_promo,CO,mobile,blog,0.73,48.226.209.246,Edge
+646,c_180,2025-09-17 21:31:15,facebook_ads,brand_search,MX,desktop,homepage,0.69,116.24.55.25,Safari
+1107,c_218,2025-09-17 21:37:33,network_x,display_ret,VN,desktop,popup,1.17,165.55.224.49,Safari
+489,c_203,2025-09-17 22:03:21,google_ads,display_ret,VN,mobile,native_widget,0.29,101.45.82.17,Chrome
+845,c_335,2025-09-17 22:35:01,tiktok_ads,display_ret,CO,mobile,native_widget,1.45,81.85.51.178,Firefox
+61,c_22,2025-09-17 22:43:38,google_ads,brand_search,CO,desktop,blog,0.11,249.47.121.214,Firefox
+1069,c_85,2025-09-17 23:08:43,email_aff,loan_cmp1,CO,mobile,native_widget,0.96,193.37.121.70,Safari
+242,c_392,2025-09-17 23:17:00,facebook_ads,cashback_promo,CO,mobile,popup,1.46,158.120.88.187,Firefox
+196,c_228,2025-09-17 23:32:10,google_ads,brand_search,CO,desktop,popup,1.21,47.203.57.252,Android WebView
+934,c_4,2025-09-17 23:55:53,tiktok_ads,lookalike,CO,desktop,popup,0.07,94.126.113.149,Edge
+1130,c_268,2025-09-18 00:09:54,google_ads,cashback_promo,MX,desktop,blog,1.1,1.216.61.228,Chrome
+144,c_217,2025-09-18 02:31:50,tiktok_ads,brand_search,CO,desktop,comparison,1.02,84.151.128.126,Android WebView
+314,c_345,2025-09-18 03:34:15,facebook_ads,cashback_promo,MX,mobile,homepage,1.19,2.189.58.107,Firefox
+767,c_279,2025-09-18 03:43:55,google_ads,display_ret,MX,mobile,comparison,1.4,40.160.22.112,Android WebView
+267,c_100,2025-09-18 06:32:34,email_aff,loan_cmp1,MX,desktop,popup,0.51,236.172.149.28,Chrome
+300,c_428,2025-09-18 06:45:35,facebook_ads,loan_cmp2,CO,mobile,comparison,1.47,179.210.244.208,Edge
+315,c_188,2025-09-18 06:46:57,network_x,cashback_promo,CO,desktop,popup,0.78,139.186.185.205,Edge
+720,c_387,2025-09-18 07:53:59,email_aff,loan_cmp2,CO,mobile,popup,0.46,230.222.91.167,Safari
+317,c_102,2025-09-18 08:39:34,google_ads,loan_cmp1,MX,desktop,native_widget,1.09,47.84.83.35,Edge
+1146,c_281,2025-09-18 09:04:24,google_ads,display_ret,MX,mobile,popup,0.79,83.196.6.26,Chrome
+86,c_318,2025-09-18 09:18:56,google_ads,loan_cmp1,CO,desktop,comparison,1.17,175.242.194.246,Edge
+491,c_346,2025-09-18 10:39:27,network_x,brand_search,CO,desktop,homepage,0.76,194.225.42.19,Chrome
+1150,c_156,2025-09-18 11:13:50,tiktok_ads,display_ret,VN,mobile,comparison,0.4,142.63.253.36,Firefox
+297,c_183,2025-09-18 11:28:48,tiktok_ads,brand_search,MX,desktop,popup,0.09,116.163.232.78,Safari
+1008,c_438,2025-09-18 11:41:43,network_x,loan_cmp1,MX,mobile,popup,1.29,196.21.18.39,Android WebView
+993,c_42,2025-09-18 12:10:32,tiktok_ads,loan_cmp2,MX,mobile,homepage,0.63,104.39.183.96,Edge
+1064,c_227,2025-09-18 12:54:49,email_aff,display_ret,CO,desktop,blog,0.4,14.206.25.228,Edge
+234,c_174,2025-09-18 12:58:57,google_ads,loan_cmp1,VN,desktop,popup,0.22,222.161.127.164,Safari
+696,c_116,2025-09-18 13:13:18,network_x,brand_search,MX,desktop,popup,1.02,67.10.49.231,Chrome
+626,c_382,2025-09-18 13:59:34,tiktok_ads,display_ret,CO,desktop,comparison,1.09,54.84.242.25,Firefox
+593,c_195,2025-09-18 14:02:48,email_aff,brand_search,MX,desktop,blog,0.95,149.249.65.149,Firefox
+486,c_32,2025-09-18 14:03:37,facebook_ads,lookalike,VN,desktop,comparison,0.31,36.114.199.13,Chrome
+1005,c_147,2025-09-18 16:03:17,facebook_ads,lookalike,CO,desktop,homepage,1.38,21.168.220.27,Safari
+450,c_75,2025-09-18 16:27:31,tiktok_ads,lookalike,MX,mobile,comparison,0.64,237.35.190.1,Edge
+533,c_196,2025-09-18 16:28:25,tiktok_ads,brand_search,MX,desktop,native_widget,1.49,12.210.17.30,Firefox
+1002,c_316,2025-09-18 17:42:43,email_aff,loan_cmp2,CO,desktop,homepage,1.15,209.208.40.39,Edge
+120,c_12,2025-09-18 18:51:29,google_ads,display_ret,CO,desktop,comparison,1.49,175.29.204.164,Firefox
+852,c_255,2025-09-18 19:10:00,facebook_ads,lookalike,KZ,desktop,native_widget,0.14,26.82.83.131,Chrome
+442,c_25,2025-09-18 19:23:26,google_ads,display_ret,VN,mobile,native_widget,1.39,239.205.114.111,Chrome
+244,c_485,2025-09-18 19:54:35,network_x,loan_cmp1,KZ,desktop,popup,0.84,29.77.59.175,Edge
+778,c_35,2025-09-18 20:23:58,google_ads,cashback_promo,CO,desktop,popup,0.35,166.245.191.175,Chrome
+814,c_253,2025-09-18 20:25:08,facebook_ads,cashback_promo,MX,mobile,homepage,0.22,218.241.118.208,Android WebView
+652,c_139,2025-09-18 20:28:24,facebook_ads,loan_cmp1,CO,desktop,comparison,1.08,219.145.183.110,Android WebView
+645,c_145,2025-09-18 21:05:56,google_ads,loan_cmp2,VN,mobile,comparison,0.95,83.47.6.16,Safari
+616,c_142,2025-09-18 21:17:11,google_ads,brand_search,MX,desktop,comparison,1.06,24.102.34.168,Firefox
+660,c_498,2025-09-18 21:27:04,email_aff,lookalike,VN,mobile,native_widget,0.98,152.201.128.31,Android WebView
+846,c_440,2025-09-18 21:55:46,network_x,loan_cmp1,MX,mobile,native_widget,0.71,69.205.179.76,Android WebView
+158,c_293,2025-09-18 22:39:31,facebook_ads,lookalike,VN,mobile,homepage,0.27,183.242.69.175,Chrome
+815,c_413,2025-09-18 23:05:08,email_aff,lookalike,CO,desktop,homepage,0.6,229.90.110.209,Chrome
+1098,c_120,2025-09-18 23:10:20,network_x,brand_search,MX,mobile,homepage,0.83,5.210.240.127,Safari
+745,c_444,2025-09-18 23:12:31,network_x,loan_cmp2,CO,desktop,popup,0.16,7.97.197.113,Edge
+440,c_43,2025-09-19 00:17:59,tiktok_ads,display_ret,CO,desktop,popup,0.65,111.137.232.224,Edge
+776,c_348,2025-09-19 01:39:07,network_x,cashback_promo,VN,desktop,homepage,0.75,217.56.31.101,Firefox
+813,c_491,2025-09-19 02:35:08,google_ads,brand_search,VN,desktop,comparison,1.49,56.12.161.120,Chrome
+821,c_8,2025-09-19 02:58:06,email_aff,loan_cmp2,MX,mobile,popup,0.92,204.148.101.48,Chrome
+399,c_180,2025-09-19 03:32:28,tiktok_ads,loan_cmp1,VN,mobile,popup,0.88,64.165.27.55,Edge
+221,c_369,2025-09-19 04:14:42,google_ads,loan_cmp2,KZ,desktop,homepage,1.25,19.201.28.212,Android WebView
+905,c_268,2025-09-19 04:14:50,tiktok_ads,lookalike,MX,mobile,popup,1.41,108.47.2.253,Chrome
+1182,c_24,2025-09-19 04:20:34,email_aff,loan_cmp1,CO,mobile,comparison,1.18,214.175.229.120,Edge
+1192,c_195,2025-09-19 05:31:01,google_ads,brand_search,CO,mobile,native_widget,1.24,154.18.48.137,Chrome
+368,c_102,2025-09-19 06:29:43,google_ads,lookalike,CO,mobile,comparison,0.09,115.194.63.104,Firefox
+1161,c_272,2025-09-19 06:40:22,facebook_ads,display_ret,VN,desktop,native_widget,1.36,94.85.44.163,Chrome
+858,c_417,2025-09-19 07:00:30,tiktok_ads,loan_cmp1,MX,mobile,comparison,1.34,90.251.24.77,Android WebView
+327,c_73,2025-09-19 07:12:43,tiktok_ads,brand_search,CO,mobile,homepage,0.53,233.199.206.157,Firefox
+823,c_353,2025-09-19 08:00:10,google_ads,brand_search,MX,mobile,blog,0.23,61.250.42.13,Edge
+310,c_127,2025-09-19 08:19:03,network_x,cashback_promo,CO,mobile,blog,0.38,43.121.41.170,Safari
+263,c_100,2025-09-19 09:00:41,network_x,lookalike,CO,tablet,popup,0.11,157.161.60.219,Chrome
+299,c_453,2025-09-19 09:52:11,email_aff,loan_cmp2,MX,tablet,comparison,0.38,43.202.89.148,Edge
+895,c_457,2025-09-19 10:18:52,tiktok_ads,brand_search,MX,desktop,homepage,0.18,198.187.6.97,Firefox
+1,c_103,2025-09-19 10:19:54,email_aff,lookalike,VN,mobile,blog,0.72,117.100.104.152,Firefox
+1083,c_33,2025-09-19 11:17:43,facebook_ads,display_ret,MX,desktop,homepage,1.02,42.215.180.116,Edge
+682,c_247,2025-09-19 12:05:16,facebook_ads,loan_cmp1,CO,mobile,homepage,0.92,70.63.221.75,Chrome
+322,c_126,2025-09-19 12:12:19,google_ads,display_ret,VN,desktop,popup,0.22,234.28.11.206,Firefox
+932,c_396,2025-09-19 13:13:26,email_aff,loan_cmp2,KZ,desktop,homepage,1.09,199.218.71.244,Firefox
+180,c_264,2025-09-19 13:14:44,network_x,brand_search,CO,desktop,native_widget,1.12,193.87.101.8,Android WebView
+165,c_145,2025-09-19 13:23:51,facebook_ads,cashback_promo,CO,desktop,popup,0.08,212.104.248.108,Chrome
+222,c_327,2025-09-19 14:29:02,tiktok_ads,brand_search,MX,mobile,popup,0.7,120.166.181.61,Edge
+1105,c_313,2025-09-19 14:39:16,tiktok_ads,loan_cmp1,CO,mobile,popup,0.97,21.107.126.245,Chrome
+204,c_21,2025-09-19 16:01:54,facebook_ads,lookalike,VN,desktop,homepage,1.46,128.140.249.189,Chrome
+1172,c_350,2025-09-19 17:01:14,facebook_ads,loan_cmp2,KZ,tablet,native_widget,0.13,228.163.116.70,Firefox
+716,c_240,2025-09-19 17:02:38,network_x,cashback_promo,MX,mobile,blog,0.25,138.102.78.177,Chrome
+896,c_407,2025-09-19 18:24:26,email_aff,lookalike,VN,mobile,popup,0.6,196.248.166.62,Android WebView
+785,c_358,2025-09-19 18:47:18,tiktok_ads,loan_cmp1,VN,mobile,comparison,1.15,127.172.193.243,Android WebView
+298,c_289,2025-09-19 19:35:33,botnet_01,loan_cmp1,MX,mobile,native_widget,0.84,10.10.10.10,Android WebView
+711,c_163,2025-09-19 19:41:20,tiktok_ads,loan_cmp2,CO,desktop,popup,0.4,213.118.226.192,Firefox
+45,c_145,2025-09-19 20:02:04,network_x,brand_search,CO,desktop,popup,0.6,167.91.202.90,Firefox
+879,c_342,2025-09-19 20:19:10,tiktok_ads,brand_search,CO,mobile,native_widget,0.88,233.94.199.251,Safari
+1040,c_352,2025-09-19 20:37:17,email_aff,display_ret,CO,mobile,homepage,1.09,251.90.81.118,Edge
+78,c_136,2025-09-19 21:01:23,google_ads,cashback_promo,VN,mobile,comparison,0.84,43.27.69.148,Firefox
+1081,c_387,2025-09-19 22:28:33,facebook_ads,cashback_promo,CO,tablet,native_widget,0.17,180.38.208.148,Firefox
+915,c_460,2025-09-19 23:10:02,google_ads,display_ret,KZ,desktop,comparison,0.53,24.35.83.70,Android WebView
+485,c_226,2025-09-19 23:53:18,email_aff,loan_cmp1,MX,desktop,blog,0.48,192.204.56.208,Chrome
+972,c_245,2025-09-20 00:39:55,facebook_ads,cashback_promo,MX,desktop,blog,0.19,105.164.117.27,Chrome
+1065,c_239,2025-09-20 00:52:25,facebook_ads,display_ret,CO,desktop,native_widget,0.44,216.34.189.220,Firefox
+284,c_34,2025-09-20 01:01:36,botnet_01,brand_search,VN,desktop,popup,0.69,10.10.10.10,Android WebView
+1169,c_494,2025-09-20 01:05:56,google_ads,lookalike,KZ,desktop,native_widget,1.29,108.23.62.13,Chrome
+689,c_172,2025-09-20 01:22:27,tiktok_ads,loan_cmp2,KZ,desktop,native_widget,1.32,139.205.125.73,Edge
+897,c_199,2025-09-20 02:01:13,facebook_ads,display_ret,MX,mobile,native_widget,1.09,208.246.81.150,Android WebView
+481,c_2,2025-09-20 02:18:40,google_ads,loan_cmp1,CO,mobile,homepage,0.28,245.58.198.211,Safari
+71,c_10,2025-09-20 02:21:52,tiktok_ads,display_ret,KZ,desktop,blog,0.25,73.17.9.203,Firefox
+465,c_165,2025-09-20 02:26:42,tiktok_ads,brand_search,CO,mobile,comparison,1.27,191.112.253.61,Chrome
+528,c_385,2025-09-20 02:58:45,email_aff,lookalike,CO,tablet,popup,0.45,156.5.120.21,Safari
+519,c_349,2025-09-20 03:08:52,tiktok_ads,loan_cmp1,MX,desktop,popup,0.47,1.167.96.218,Chrome
+997,c_109,2025-09-20 04:28:28,network_x,display_ret,MX,mobile,homepage,0.19,189.81.108.65,Firefox
+332,c_420,2025-09-20 05:36:16,email_aff,display_ret,CO,mobile,blog,0.07,211.192.44.29,Firefox
+1189,c_132,2025-09-20 05:52:28,network_x,brand_search,VN,mobile,native_widget,1.22,220.253.119.72,Edge
+178,c_196,2025-09-20 08:30:20,network_x,cashback_promo,CO,mobile,native_widget,0.72,21.42.141.113,Chrome
+296,c_81,2025-09-20 09:44:20,google_ads,brand_search,MX,desktop,popup,1.29,63.49.76.112,Android WebView
+686,c_464,2025-09-20 09:47:13,tiktok_ads,lookalike,CO,tablet,blog,0.75,31.58.104.170,Safari
+636,c_62,2025-09-20 09:50:18,email_aff,loan_cmp1,VN,mobile,homepage,0.97,81.42.204.112,Firefox
+835,c_437,2025-09-20 11:16:21,facebook_ads,loan_cmp1,VN,desktop,native_widget,0.06,53.18.215.236,Firefox
+202,c_217,2025-09-20 11:19:45,email_aff,cashback_promo,MX,mobile,comparison,1.36,185.21.196.178,Chrome
+760,c_317,2025-09-20 13:09:21,email_aff,brand_search,CO,desktop,homepage,1.18,178.245.123.86,Firefox
+872,c_261,2025-09-20 13:31:32,google_ads,loan_cmp2,MX,desktop,popup,1.01,19.47.136.23,Android WebView
+1042,c_204,2025-09-20 14:41:19,tiktok_ads,display_ret,MX,desktop,homepage,0.25,254.219.79.250,Safari
+14,c_225,2025-09-20 15:06:24,google_ads,cashback_promo,MX,desktop,homepage,0.14,186.52.12.254,Safari
+13,c_473,2025-09-20 15:16:56,facebook_ads,brand_search,MX,mobile,homepage,0.49,198.200.155.137,Android WebView
+1137,c_434,2025-09-20 15:22:52,google_ads,brand_search,MX,tablet,popup,1.31,116.167.28.192,Chrome
+46,c_39,2025-09-20 15:29:31,facebook_ads,loan_cmp1,MX,mobile,blog,1.16,127.105.167.1,Firefox
+523,c_312,2025-09-20 17:07:26,email_aff,cashback_promo,MX,mobile,native_widget,1.24,16.165.149.207,Chrome
+454,c_109,2025-09-20 17:22:12,email_aff,cashback_promo,MX,desktop,homepage,0.71,20.79.146.111,Safari
+797,c_234,2025-09-20 18:10:53,tiktok_ads,lookalike,MX,mobile,homepage,0.36,84.61.125.200,Firefox
+410,c_159,2025-09-20 18:48:28,network_x,display_ret,MX,mobile,popup,0.09,149.138.110.78,Android WebView
+641,c_314,2025-09-20 18:57:54,google_ads,loan_cmp2,MX,desktop,comparison,0.34,37.178.162.75,Chrome
+48,c_80,2025-09-20 19:55:26,tiktok_ads,lookalike,KZ,desktop,comparison,0.96,14.143.159.1,Android WebView
+551,c_169,2025-09-20 20:24:55,facebook_ads,loan_cmp1,CO,mobile,native_widget,0.98,94.58.237.155,Safari
+1097,c_109,2025-09-20 20:58:19,facebook_ads,cashback_promo,VN,tablet,popup,1.17,187.170.52.63,Android WebView
+891,c_343,2025-09-20 21:24:48,google_ads,loan_cmp1,CO,desktop,native_widget,0.85,100.252.214.77,Edge
+421,c_230,2025-09-20 23:18:06,email_aff,cashback_promo,VN,mobile,comparison,0.58,11.103.61.68,Chrome
+91,c_403,2025-09-20 23:45:14,tiktok_ads,cashback_promo,VN,tablet,native_widget,0.43,130.195.215.119,Edge
+877,c_332,2025-09-21 00:32:29,email_aff,loan_cmp2,CO,tablet,native_widget,1.19,169.116.141.162,Edge
+518,c_281,2025-09-21 01:33:49,facebook_ads,display_ret,VN,mobile,native_widget,0.37,247.226.105.206,Edge
+25,c_497,2025-09-21 01:41:42,tiktok_ads,lookalike,KZ,desktop,native_widget,0.44,67.128.18.25,Safari
+503,c_212,2025-09-21 02:30:45,facebook_ads,cashback_promo,MX,mobile,blog,0.86,50.222.167.20,Chrome
+294,c_214,2025-09-21 03:05:08,facebook_ads,cashback_promo,KZ,mobile,comparison,0.2,65.191.217.51,Edge
+613,c_460,2025-09-21 03:10:34,google_ads,loan_cmp2,CO,mobile,homepage,1.49,48.86.149.188,Edge
+667,c_91,2025-09-21 03:41:06,facebook_ads,display_ret,VN,mobile,popup,1.01,168.45.196.137,Chrome
+73,c_320,2025-09-21 04:18:44,email_aff,lookalike,VN,desktop,comparison,1.23,123.78.154.62,Edge
+480,c_74,2025-09-21 05:29:42,tiktok_ads,brand_search,VN,mobile,popup,0.78,162.46.237.196,Firefox
+952,c_227,2025-09-21 06:48:44,google_ads,loan_cmp1,CO,desktop,comparison,1.42,246.60.88.27,Edge
+199,c_302,2025-09-21 07:01:19,google_ads,loan_cmp1,VN,desktop,homepage,0.75,70.90.4.126,Safari
+596,c_343,2025-09-21 07:13:08,facebook_ads,brand_search,MX,desktop,native_widget,1.43,85.93.20.61,Edge
+1100,c_498,2025-09-21 07:31:15,google_ads,loan_cmp1,MX,desktop,homepage,1.45,194.218.226.14,Edge
+649,c_331,2025-09-21 07:39:23,tiktok_ads,loan_cmp1,MX,desktop,homepage,1.12,199.102.136.77,Android WebView
+326,c_62,2025-09-21 08:31:38,email_aff,brand_search,CO,mobile,native_widget,1.05,124.144.25.54,Edge
+1163,c_112,2025-09-21 09:02:28,facebook_ads,loan_cmp1,CO,desktop,blog,0.5,26.250.189.220,Firefox
+318,c_69,2025-09-21 09:07:08,google_ads,cashback_promo,MX,mobile,homepage,0.56,52.88.153.237,Android WebView
+766,c_487,2025-09-21 09:14:30,google_ads,loan_cmp2,VN,mobile,homepage,0.39,54.74.112.95,Android WebView
+1014,c_362,2025-09-21 09:30:27,facebook_ads,cashback_promo,MX,mobile,native_widget,1.47,166.47.72.7,Safari
+1117,c_137,2025-09-21 10:04:04,google_ads,lookalike,CO,desktop,comparison,0.55,46.198.166.49,Firefox
+1032,c_341,2025-09-21 10:38:09,facebook_ads,cashback_promo,VN,mobile,homepage,0.73,236.244.226.74,Firefox
+735,c_254,2025-09-21 10:45:36,facebook_ads,loan_cmp1,MX,mobile,popup,1.35,134.107.49.73,Safari
+448,c_432,2025-09-21 11:07:05,tiktok_ads,loan_cmp2,MX,mobile,homepage,0.79,45.77.177.87,Edge
+918,c_277,2025-09-21 13:30:21,facebook_ads,display_ret,CO,mobile,popup,1.38,188.125.110.37,Android WebView
+923,c_255,2025-09-21 14:03:59,google_ads,loan_cmp1,KZ,mobile,homepage,1.43,185.69.253.70,Firefox
+899,c_356,2025-09-21 15:53:03,botnet_01,display_ret,MX,desktop,homepage,0.38,10.10.10.10,Android WebView
+82,c_1,2025-09-21 15:59:05,network_x,lookalike,CO,desktop,homepage,1.21,117.154.169.35,Edge
+1195,c_492,2025-09-21 16:30:30,email_aff,loan_cmp2,CO,desktop,blog,1.27,171.206.131.174,Firefox
+830,c_74,2025-09-21 17:06:36,tiktok_ads,cashback_promo,VN,desktop,homepage,0.12,89.249.192.24,Chrome
+268,c_356,2025-09-21 17:21:47,google_ads,lookalike,MX,desktop,blog,0.19,74.46.13.165,Safari
+246,c_42,2025-09-21 20:33:47,network_x,loan_cmp1,MX,desktop,popup,1.25,68.243.129.92,Android WebView
+220,c_219,2025-09-21 20:42:47,tiktok_ads,lookalike,MX,desktop,popup,0.24,147.30.78.251,Edge
+342,c_433,2025-09-21 21:11:52,email_aff,lookalike,MX,tablet,native_widget,0.15,29.127.19.171,Safari
+166,c_121,2025-09-21 21:15:59,email_aff,cashback_promo,CO,desktop,homepage,0.78,244.226.253.142,Edge
+698,c_421,2025-09-21 21:26:39,facebook_ads,display_ret,MX,mobile,comparison,0.4,156.155.51.64,Edge
+56,c_389,2025-09-21 21:35:09,google_ads,lookalike,CO,desktop,native_widget,1.07,179.103.166.192,Edge
+995,c_465,2025-09-21 22:04:13,network_x,lookalike,MX,mobile,native_widget,0.93,219.136.231.8,Edge
+333,c_71,2025-09-21 22:37:51,email_aff,cashback_promo,MX,desktop,comparison,1.17,234.229.245.214,Safari
+516,c_103,2025-09-21 22:54:24,network_x,display_ret,MX,tablet,popup,0.36,105.200.101.51,Safari
+2,c_150,2025-09-21 23:05:04,google_ads,cashback_promo,KZ,desktop,popup,0.49,22.253.236.89,Chrome
+515,c_90,2025-09-22 01:12:59,network_x,brand_search,MX,mobile,popup,1.25,197.226.110.226,Android WebView
+684,c_144,2025-09-22 01:22:02,google_ads,loan_cmp1,CO,desktop,native_widget,0.68,194.230.96.182,Safari
+1057,c_321,2025-09-22 01:39:29,facebook_ads,brand_search,CO,tablet,popup,1.05,76.147.89.178,Firefox
+609,c_338,2025-09-22 01:39:53,google_ads,loan_cmp1,VN,mobile,popup,0.82,158.53.92.99,Firefox
+427,c_1,2025-09-22 02:28:41,google_ads,cashback_promo,MX,mobile,comparison,0.36,71.222.178.201,Android WebView
+833,c_77,2025-09-22 02:53:31,google_ads,lookalike,MX,mobile,popup,1.07,77.25.108.179,Android WebView
+119,c_233,2025-09-22 03:45:07,botnet_01,cashback_promo,CO,tablet,native_widget,0.3,10.10.10.10,Android WebView
+871,c_165,2025-09-22 04:21:41,google_ads,loan_cmp2,CO,tablet,comparison,0.65,247.6.53.144,Safari
+694,c_301,2025-09-22 04:48:43,email_aff,cashback_promo,MX,mobile,homepage,0.68,223.190.217.52,Chrome
+1126,c_315,2025-09-22 05:07:23,tiktok_ads,lookalike,CO,desktop,popup,1.21,179.129.27.195,Edge
+84,c_455,2025-09-22 05:18:17,google_ads,loan_cmp1,KZ,desktop,comparison,0.07,213.49.199.81,Edge
+97,c_296,2025-09-22 07:59:29,facebook_ads,cashback_promo,VN,desktop,comparison,0.63,152.246.150.69,Chrome
+476,c_472,2025-09-22 09:02:54,google_ads,brand_search,KZ,desktop,comparison,0.14,60.99.62.30,Android WebView
+591,c_210,2025-09-22 09:12:03,google_ads,brand_search,MX,desktop,comparison,1.49,58.174.29.163,Edge
+900,c_472,2025-09-22 09:16:27,email_aff,cashback_promo,VN,desktop,blog,0.09,9.191.34.209,Firefox
+415,c_251,2025-09-22 09:39:13,network_x,loan_cmp1,CO,desktop,homepage,0.93,252.219.89.72,Chrome
+50,c_316,2025-09-22 10:34:48,tiktok_ads,cashback_promo,MX,desktop,comparison,0.5,212.205.220.240,Android WebView
+501,c_257,2025-09-22 11:07:36,tiktok_ads,cashback_promo,MX,mobile,native_widget,1.46,197.19.130.12,Chrome
+1167,c_288,2025-09-22 12:15:58,email_aff,brand_search,CO,tablet,blog,0.17,66.137.196.109,Firefox
+759,c_197,2025-09-22 14:21:12,email_aff,loan_cmp2,MX,desktop,comparison,1.46,41.98.183.128,Android WebView
+796,c_130,2025-09-22 15:07:51,network_x,cashback_promo,VN,desktop,popup,0.74,31.246.138.236,Android WebView
+77,c_254,2025-09-22 15:19:40,google_ads,display_ret,VN,mobile,homepage,0.21,228.109.216.180,Android WebView
+916,c_428,2025-09-22 15:37:14,google_ads,lookalike,MX,desktop,popup,0.63,70.140.219.41,Chrome
+722,c_141,2025-09-22 16:05:11,email_aff,lookalike,MX,mobile,native_widget,1.13,37.175.91.114,Edge
+101,c_318,2025-09-22 16:07:33,botnet_01,lookalike,VN,mobile,native_widget,1.47,10.10.10.10,Android WebView
+320,c_118,2025-09-22 16:37:28,email_aff,brand_search,MX,mobile,homepage,0.28,165.87.141.160,Edge
+522,c_399,2025-09-22 16:46:48,facebook_ads,loan_cmp2,MX,tablet,homepage,1.5,124.49.76.55,Android WebView
+582,c_359,2025-09-22 16:58:28,network_x,display_ret,MX,desktop,popup,0.39,114.235.125.124,Safari
+802,c_75,2025-09-22 17:15:37,facebook_ads,display_ret,MX,desktop,homepage,0.93,79.10.15.42,Android WebView
+236,c_202,2025-09-22 17:50:00,facebook_ads,lookalike,CO,mobile,comparison,0.94,28.3.84.198,Firefox
+1153,c_355,2025-09-22 18:32:55,network_x,display_ret,MX,tablet,comparison,1.4,118.158.191.114,Chrome
+730,c_475,2025-09-22 18:43:01,google_ads,brand_search,CO,tablet,popup,0.56,17.237.75.158,Firefox
+787,c_343,2025-09-22 18:46:59,tiktok_ads,loan_cmp1,CO,mobile,popup,0.97,114.155.245.111,Chrome
+509,c_324,2025-09-22 19:00:16,network_x,display_ret,CO,mobile,comparison,0.19,34.53.249.136,Safari
+1166,c_305,2025-09-22 19:03:02,facebook_ads,lookalike,KZ,desktop,native_widget,0.4,160.49.196.108,Android WebView
+226,c_482,2025-09-22 19:57:33,network_x,brand_search,MX,mobile,popup,1.17,105.147.26.52,Android WebView
+642,c_287,2025-09-22 19:59:57,facebook_ads,cashback_promo,VN,tablet,homepage,0.77,56.135.118.217,Android WebView
+1198,c_3,2025-09-22 20:39:14,botnet_01,loan_cmp2,CO,tablet,native_widget,0.41,10.10.10.10,Android WebView
+669,c_37,2025-09-22 21:12:29,network_x,loan_cmp2,CO,mobile,blog,0.08,125.161.66.30,Edge
+954,c_376,2025-09-22 21:36:38,google_ads,cashback_promo,MX,mobile,native_widget,1.0,133.79.50.132,Firefox
+493,c_400,2025-09-22 23:27:11,google_ads,loan_cmp2,MX,desktop,blog,0.61,200.157.231.92,Edge
+33,c_278,2025-09-22 23:31:04,email_aff,lookalike,MX,desktop,native_widget,0.55,220.69.47.241,Edge
+164,c_264,2025-09-23 00:03:27,tiktok_ads,display_ret,KZ,desktop,homepage,0.64,158.121.55.144,Edge
+1004,c_328,2025-09-23 00:18:48,botnet_01,brand_search,MX,mobile,popup,1.03,10.10.10.10,Android WebView
+564,c_6,2025-09-23 00:37:31,tiktok_ads,loan_cmp2,VN,desktop,blog,1.03,148.103.24.112,Edge
+500,c_472,2025-09-23 00:54:00,email_aff,loan_cmp2,MX,mobile,popup,1.24,145.145.195.190,Firefox
+349,c_7,2025-09-23 00:55:27,tiktok_ads,lookalike,VN,desktop,native_widget,1.21,163.179.212.37,Safari
+601,c_280,2025-09-23 02:33:35,network_x,display_ret,VN,mobile,popup,0.22,29.151.245.14,Chrome
+888,c_236,2025-09-23 02:36:34,tiktok_ads,cashback_promo,MX,desktop,native_widget,1.18,95.13.28.250,Edge
+1013,c_304,2025-09-23 03:01:06,tiktok_ads,cashback_promo,VN,mobile,comparison,1.09,43.99.104.116,Firefox
+439,c_465,2025-09-23 04:01:46,email_aff,loan_cmp2,CO,desktop,homepage,1.05,197.171.25.18,Android WebView
+163,c_67,2025-09-23 05:20:01,tiktok_ads,loan_cmp1,CO,desktop,blog,0.58,35.98.215.30,Edge
+201,c_414,2025-09-23 05:27:55,facebook_ads,display_ret,MX,desktop,comparison,1.19,138.80.144.182,Safari
+492,c_492,2025-09-23 05:30:10,email_aff,brand_search,MX,mobile,homepage,1.48,100.117.118.7,Edge
+464,c_246,2025-09-23 05:33:28,facebook_ads,lookalike,KZ,desktop,popup,1.24,42.117.161.178,Edge
+374,c_44,2025-09-23 05:42:46,facebook_ads,display_ret,VN,desktop,popup,0.48,112.129.246.89,Safari
+188,c_466,2025-09-23 05:42:47,google_ads,loan_cmp1,VN,mobile,comparison,0.55,22.171.165.189,Chrome
+104,c_108,2025-09-23 06:31:50,google_ads,display_ret,VN,mobile,blog,0.14,15.120.241.4,Android WebView
+130,c_166,2025-09-23 06:56:43,tiktok_ads,loan_cmp2,CO,mobile,blog,0.2,203.61.195.123,Chrome
+330,c_123,2025-09-23 07:33:17,google_ads,lookalike,MX,desktop,comparison,0.59,60.116.75.122,Firefox
+634,c_444,2025-09-23 07:56:55,facebook_ads,brand_search,VN,mobile,homepage,0.93,14.91.153.77,Android WebView
+788,c_468,2025-09-23 08:40:50,network_x,loan_cmp1,MX,tablet,homepage,0.79,29.189.198.207,Safari
+446,c_282,2025-09-23 08:47:38,network_x,brand_search,CO,desktop,comparison,1.07,96.158.77.235,Safari
+1041,c_275,2025-09-23 09:34:34,tiktok_ads,cashback_promo,VN,mobile,native_widget,0.17,113.107.120.186,Safari
+81,c_393,2025-09-23 09:36:00,facebook_ads,loan_cmp1,MX,mobile,comparison,0.21,149.90.110.164,Chrome
+435,c_224,2025-09-23 09:58:12,google_ads,brand_search,CO,desktop,native_widget,0.81,74.251.39.122,Android WebView
+87,c_113,2025-09-23 11:20:06,facebook_ads,loan_cmp2,VN,desktop,native_widget,1.14,10.202.211.110,Safari
+948,c_164,2025-09-23 12:20:06,facebook_ads,cashback_promo,CO,desktop,native_widget,0.1,106.76.40.19,Chrome
+471,c_197,2025-09-23 12:33:32,network_x,display_ret,MX,tablet,blog,0.22,110.97.18.71,Chrome
+941,c_325,2025-09-23 12:51:49,tiktok_ads,loan_cmp2,VN,desktop,homepage,0.91,133.208.7.51,Chrome
+1138,c_32,2025-09-23 14:04:57,facebook_ads,display_ret,KZ,mobile,native_widget,0.36,176.203.250.116,Firefox
+213,c_32,2025-09-23 14:39:16,google_ads,lookalike,CO,tablet,native_widget,1.1,162.4.156.102,Safari
+260,c_366,2025-09-23 15:34:31,network_x,loan_cmp2,CO,desktop,comparison,0.44,119.159.206.34,Safari
+102,c_410,2025-09-23 15:37:56,google_ads,display_ret,MX,mobile,homepage,0.74,135.14.79.117,Chrome
+903,c_152,2025-09-23 17:23:33,network_x,loan_cmp1,VN,desktop,comparison,0.6,120.70.156.95,Firefox
+461,c_461,2025-09-23 17:42:52,network_x,display_ret,VN,desktop,blog,0.53,183.81.174.152,Firefox
+42,c_69,2025-09-23 18:31:43,facebook_ads,brand_search,CO,desktop,native_widget,1.19,109.181.42.186,Safari
+740,c_378,2025-09-23 20:15:36,email_aff,brand_search,MX,mobile,comparison,0.42,21.229.171.223,Android WebView
+795,c_153,2025-09-23 20:19:03,email_aff,display_ret,MX,tablet,homepage,0.14,20.237.2.88,Firefox
+1019,c_300,2025-09-23 20:41:14,facebook_ads,cashback_promo,CO,desktop,comparison,0.44,13.71.16.225,Android WebView
+812,c_349,2025-09-23 21:30:30,google_ads,cashback_promo,CO,desktop,comparison,0.98,134.129.8.225,Firefox
+393,c_329,2025-09-23 21:37:33,google_ads,lookalike,VN,mobile,popup,1.18,226.237.248.112,Chrome
+59,c_205,2025-09-23 22:25:19,google_ads,lookalike,MX,desktop,homepage,0.27,118.144.8.132,Edge
+496,c_412,2025-09-23 22:32:29,facebook_ads,display_ret,MX,desktop,native_widget,0.25,130.84.20.187,Firefox
+962,c_376,2025-09-23 22:50:56,google_ads,cashback_promo,MX,mobile,blog,0.16,142.20.124.13,Firefox
+653,c_420,2025-09-23 23:16:37,botnet_01,loan_cmp1,CO,mobile,blog,0.27,10.10.10.10,Android WebView
+747,c_161,2025-09-23 23:37:33,network_x,cashback_promo,MX,mobile,blog,0.54,42.12.65.234,Chrome
+661,c_489,2025-09-24 01:28:42,facebook_ads,display_ret,VN,mobile,comparison,0.65,116.92.138.166,Chrome
+176,c_62,2025-09-24 01:32:22,tiktok_ads,loan_cmp2,VN,mobile,blog,0.95,13.213.218.242,Android WebView
+1178,c_382,2025-09-24 02:04:06,tiktok_ads,brand_search,VN,desktop,popup,1.1,149.30.90.148,Firefox
+35,c_100,2025-09-24 02:39:00,google_ads,display_ret,CO,mobile,homepage,1.04,16.24.80.247,Safari
+194,c_221,2025-09-24 03:03:25,tiktok_ads,loan_cmp1,CO,mobile,popup,0.76,158.82.147.159,Edge
+16,c_53,2025-09-24 03:31:28,tiktok_ads,loan_cmp2,MX,mobile,comparison,1.11,24.69.116.98,Firefox
+1023,c_450,2025-09-24 04:54:53,network_x,cashback_promo,CO,desktop,comparison,1.5,66.61.78.41,Safari
+631,c_206,2025-09-24 05:21:16,email_aff,brand_search,MX,mobile,popup,1.02,102.235.87.196,Edge
+543,c_483,2025-09-24 06:25:47,network_x,brand_search,MX,mobile,comparison,0.68,205.68.46.78,Android WebView
+530,c_486,2025-09-24 06:48:22,google_ads,cashback_promo,MX,desktop,native_widget,1.08,198.115.117.205,Chrome
+173,c_467,2025-09-24 06:57:12,google_ads,brand_search,MX,tablet,native_widget,0.67,137.99.149.73,Edge
+939,c_242,2025-09-24 08:02:04,facebook_ads,cashback_promo,VN,mobile,comparison,0.42,153.31.21.219,Chrome
+20,c_9,2025-09-24 08:08:19,facebook_ads,lookalike,VN,mobile,homepage,0.17,200.164.166.104,Edge
+664,c_453,2025-09-24 08:09:37,google_ads,cashback_promo,MX,mobile,native_widget,0.81,238.65.241.75,Firefox
+286,c_203,2025-09-24 09:35:40,email_aff,loan_cmp1,MX,desktop,blog,0.38,68.197.139.56,Firefox
+534,c_99,2025-09-24 09:40:12,google_ads,brand_search,MX,mobile,popup,0.8,27.211.109.76,Edge
+1144,c_471,2025-09-24 09:48:39,google_ads,display_ret,VN,desktop,comparison,0.86,49.209.172.10,Edge
+913,c_47,2025-09-24 10:08:11,tiktok_ads,cashback_promo,VN,mobile,comparison,0.83,176.67.174.225,Safari
+569,c_276,2025-09-24 11:18:53,tiktok_ads,cashback_promo,MX,mobile,popup,0.18,249.183.217.80,Safari
+697,c_219,2025-09-24 12:02:36,email_aff,lookalike,VN,mobile,homepage,0.55,111.101.119.76,Edge
+240,c_48,2025-09-24 12:42:14,google_ads,lookalike,CO,mobile,homepage,0.79,156.165.7.196,Android WebView
+264,c_120,2025-09-24 15:00:40,email_aff,loan_cmp1,VN,mobile,homepage,0.48,21.84.211.211,Edge
+347,c_43,2025-09-24 15:57:13,tiktok_ads,loan_cmp2,CO,tablet,popup,0.63,205.66.37.177,Safari
+580,c_352,2025-09-24 16:07:06,tiktok_ads,loan_cmp2,CO,desktop,blog,0.57,162.229.30.71,Firefox
+1162,c_455,2025-09-24 16:14:25,google_ads,loan_cmp2,CO,tablet,blog,0.34,227.145.156.14,Safari
+844,c_424,2025-09-24 16:51:32,network_x,loan_cmp2,MX,tablet,popup,0.25,193.233.3.236,Firefox
+921,c_325,2025-09-24 16:57:12,google_ads,loan_cmp2,MX,mobile,native_widget,1.47,48.248.17.111,Edge
+352,c_84,2025-09-24 17:09:59,botnet_01,loan_cmp2,MX,desktop,popup,0.35,10.10.10.10,Android WebView
+118,c_46,2025-09-24 17:44:12,facebook_ads,brand_search,CO,desktop,popup,1.18,70.211.158.199,Safari
+49,c_54,2025-09-24 18:23:23,tiktok_ads,brand_search,KZ,tablet,popup,0.54,122.92.164.90,Safari
+72,c_94,2025-09-24 19:39:52,google_ads,loan_cmp1,VN,tablet,native_widget,0.35,227.35.1.40,Edge
+553,c_64,2025-09-24 19:55:43,facebook_ads,loan_cmp1,MX,mobile,comparison,0.92,11.97.102.186,Firefox
+917,c_362,2025-09-24 20:04:58,google_ads,cashback_promo,KZ,mobile,blog,0.27,20.139.96.124,Firefox
+128,c_301,2025-09-24 20:55:04,email_aff,cashback_promo,VN,desktop,comparison,0.4,121.46.160.207,Edge
+181,c_200,2025-09-24 21:20:16,google_ads,lookalike,CO,mobile,comparison,1.44,21.232.58.159,Edge
+1103,c_472,2025-09-24 21:20:30,email_aff,loan_cmp1,VN,tablet,popup,1.11,207.157.67.203,Firefox
+663,c_290,2025-09-24 23:43:15,facebook_ads,lookalike,MX,mobile,native_widget,0.27,30.126.97.24,Edge
+1079,c_113,2025-09-24 23:56:59,email_aff,cashback_promo,VN,mobile,blog,0.21,17.202.220.249,Safari
+426,c_490,2025-09-25 00:06:30,email_aff,brand_search,KZ,desktop,blog,0.81,50.230.219.52,Chrome
+372,c_367,2025-09-25 01:34:58,google_ads,cashback_promo,MX,desktop,native_widget,0.41,254.118.234.73,Safari
+1156,c_238,2025-09-25 01:47:53,facebook_ads,display_ret,CO,desktop,comparison,0.6,173.79.208.130,Android WebView
+590,c_323,2025-09-25 01:52:29,facebook_ads,brand_search,MX,mobile,comparison,0.75,129.91.92.63,Android WebView
+937,c_496,2025-09-25 01:54:00,facebook_ads,display_ret,MX,tablet,comparison,0.47,209.112.173.86,Android WebView
+403,c_106,2025-09-25 02:47:48,tiktok_ads,cashback_promo,KZ,mobile,comparison,1.31,83.95.181.32,Safari
+27,c_246,2025-09-25 02:57:27,facebook_ads,loan_cmp1,MX,mobile,blog,1.37,250.135.57.36,Android WebView
+99,c_73,2025-09-25 03:42:30,google_ads,brand_search,CO,mobile,blog,0.16,242.229.108.172,Firefox
+619,c_475,2025-09-25 05:24:22,network_x,brand_search,VN,desktop,blog,1.08,92.167.190.103,Edge
+588,c_423,2025-09-25 06:19:20,network_x,loan_cmp2,CO,desktop,blog,0.31,183.251.9.79,Edge
+894,c_180,2025-09-25 06:27:26,network_x,loan_cmp1,MX,desktop,homepage,0.96,17.240.241.249,Edge
+214,c_223,2025-09-25 06:43:37,email_aff,lookalike,CO,desktop,popup,0.17,133.227.189.220,Android WebView
+1017,c_227,2025-09-25 06:45:46,email_aff,loan_cmp1,MX,desktop,homepage,0.58,106.157.223.44,Firefox
+394,c_74,2025-09-25 07:12:13,network_x,brand_search,CO,desktop,homepage,0.28,48.226.10.99,Firefox
+629,c_477,2025-09-25 08:25:48,tiktok_ads,display_ret,CO,desktop,comparison,0.84,57.239.46.136,Safari
+885,c_258,2025-09-25 09:32:44,google_ads,loan_cmp2,VN,desktop,homepage,1.25,241.13.147.172,Chrome
+770,c_450,2025-09-25 10:07:07,google_ads,cashback_promo,MX,tablet,popup,1.05,233.220.38.161,Safari
+506,c_283,2025-09-25 10:28:26,facebook_ads,brand_search,VN,desktop,blog,1.2,57.180.232.126,Android WebView
+1135,c_190,2025-09-25 11:19:28,google_ads,cashback_promo,VN,desktop,homepage,0.79,79.63.226.176,Edge
+271,c_175,2025-09-25 11:23:12,network_x,display_ret,MX,mobile,native_widget,1.12,7.244.57.126,Edge
+792,c_437,2025-09-25 14:10:16,google_ads,lookalike,MX,tablet,homepage,1.15,106.77.207.182,Android WebView
+672,c_325,2025-09-25 14:29:46,facebook_ads,loan_cmp2,CO,mobile,popup,1.26,119.162.191.9,Edge
+651,c_324,2025-09-25 14:42:40,google_ads,brand_search,CO,desktop,homepage,0.86,115.6.18.10,Edge
+380,c_103,2025-09-25 15:11:50,botnet_01,loan_cmp1,MX,desktop,popup,0.37,10.10.10.10,Android WebView
+6,c_218,2025-09-25 15:26:31,facebook_ads,display_ret,VN,mobile,popup,1.27,237.82.111.53,Safari
+434,c_98,2025-09-25 15:29:58,email_aff,loan_cmp2,MX,tablet,blog,0.92,55.251.144.95,Edge
+598,c_313,2025-09-25 15:33:02,botnet_01,cashback_promo,VN,mobile,native_widget,0.22,10.10.10.10,Android WebView
+633,c_62,2025-09-25 15:45:47,botnet_01,brand_search,CO,tablet,popup,0.4,10.10.10.10,Android WebView
+857,c_220,2025-09-25 16:33:42,tiktok_ads,lookalike,CO,mobile,native_widget,0.67,246.111.234.22,Android WebView
+334,c_332,2025-09-25 17:55:51,tiktok_ads,loan_cmp1,VN,desktop,comparison,0.92,130.94.222.204,Safari
+157,c_214,2025-09-25 20:56:28,tiktok_ads,display_ret,MX,mobile,blog,1.36,152.208.49.154,Firefox
+88,c_380,2025-09-25 21:15:34,network_x,cashback_promo,VN,mobile,homepage,0.42,215.187.253.72,Chrome
+614,c_492,2025-09-25 21:38:44,google_ads,loan_cmp1,VN,desktop,homepage,0.99,146.97.200.243,Chrome
+657,c_296,2025-09-25 21:40:25,tiktok_ads,brand_search,KZ,desktop,homepage,0.42,124.198.100.216,Edge
+345,c_376,2025-09-25 21:53:44,network_x,loan_cmp1,CO,desktop,comparison,0.15,150.83.65.64,Edge
+290,c_279,2025-09-25 22:20:37,network_x,loan_cmp2,CO,mobile,native_widget,0.58,57.138.168.135,Android WebView
+717,c_339,2025-09-25 22:50:15,google_ads,lookalike,MX,mobile,blog,1.29,169.100.27.203,Android WebView
+167,c_481,2025-09-25 23:26:56,google_ads,loan_cmp1,MX,desktop,comparison,0.49,180.190.151.154,Edge
+1020,c_321,2025-09-26 00:06:35,network_x,cashback_promo,MX,mobile,homepage,0.7,220.219.42.83,Android WebView
+989,c_179,2025-09-26 00:32:22,facebook_ads,cashback_promo,VN,mobile,comparison,1.02,52.211.237.82,Chrome
+842,c_404,2025-09-26 00:33:56,google_ads,lookalike,VN,desktop,homepage,0.28,29.214.45.77,Edge
+690,c_76,2025-09-26 00:55:46,facebook_ads,display_ret,MX,desktop,popup,0.13,113.77.77.186,Edge
+335,c_300,2025-09-26 01:21:26,email_aff,brand_search,CO,desktop,comparison,1.01,224.113.128.62,Chrome
+151,c_456,2025-09-26 01:47:51,email_aff,display_ret,VN,mobile,native_widget,0.8,198.156.117.221,Safari
+191,c_66,2025-09-26 03:00:05,facebook_ads,loan_cmp1,CO,mobile,blog,1.26,206.14.121.162,Android WebView
+60,c_184,2025-09-26 03:08:34,facebook_ads,lookalike,CO,tablet,native_widget,0.11,5.210.92.170,Android WebView
+837,c_224,2025-09-26 03:32:51,tiktok_ads,loan_cmp2,CO,tablet,comparison,0.44,123.5.77.160,Chrome
+557,c_458,2025-09-26 04:20:20,email_aff,display_ret,CO,mobile,popup,0.23,123.144.1.144,Android WebView
+1129,c_117,2025-09-26 05:19:23,google_ads,display_ret,CO,desktop,native_widget,1.38,49.142.46.163,Android WebView
+373,c_404,2025-09-26 05:28:58,email_aff,display_ret,MX,desktop,comparison,0.13,15.163.204.105,Android WebView
+337,c_487,2025-09-26 05:38:44,email_aff,cashback_promo,CO,tablet,popup,1.13,161.28.136.1,Android WebView
+982,c_104,2025-09-26 05:58:54,tiktok_ads,loan_cmp2,KZ,desktop,native_widget,1.22,63.48.87.48,Android WebView
+235,c_485,2025-09-26 06:45:06,google_ads,cashback_promo,CO,tablet,popup,0.56,167.2.191.29,Chrome
+31,c_124,2025-09-26 07:12:25,email_aff,lookalike,VN,desktop,popup,0.09,117.62.23.127,Chrome
+586,c_235,2025-09-26 07:18:07,email_aff,loan_cmp1,CO,desktop,homepage,0.75,166.130.113.134,Safari
+856,c_437,2025-09-26 07:41:16,botnet_01,display_ret,KZ,desktop,popup,0.07,10.10.10.10,Android WebView
+356,c_271,2025-09-26 07:52:58,google_ads,loan_cmp1,KZ,mobile,popup,0.81,77.208.201.191,Edge
+585,c_352,2025-09-26 08:00:04,google_ads,loan_cmp1,CO,desktop,homepage,0.42,13.156.161.107,Chrome
+182,c_139,2025-09-26 08:19:16,botnet_01,lookalike,CO,desktop,comparison,0.85,10.10.10.10,Android WebView
+666,c_350,2025-09-26 09:07:53,facebook_ads,display_ret,VN,mobile,native_widget,0.48,158.120.231.199,Edge
+358,c_365,2025-09-26 09:10:37,botnet_01,loan_cmp1,CO,mobile,popup,0.98,10.10.10.10,Android WebView
+482,c_390,2025-09-26 11:04:46,facebook_ads,display_ret,MX,desktop,comparison,1.06,55.192.219.185,Android WebView
+882,c_109,2025-09-26 11:28:55,facebook_ads,brand_search,KZ,mobile,popup,1.1,108.217.143.4,Edge
+1185,c_35,2025-09-26 11:45:48,email_aff,loan_cmp1,MX,desktop,popup,0.19,110.26.214.76,Firefox
+458,c_493,2025-09-26 12:15:30,email_aff,loan_cmp1,CO,mobile,comparison,0.67,118.84.192.69,Firefox
+257,c_375,2025-09-26 12:48:12,network_x,cashback_promo,VN,desktop,blog,1.02,159.252.34.39,Firefox
+420,c_412,2025-09-26 12:48:41,email_aff,lookalike,VN,tablet,comparison,1.24,38.98.171.19,Edge
+1052,c_380,2025-09-26 13:25:28,network_x,loan_cmp2,VN,mobile,comparison,1.3,187.214.220.30,Edge
+911,c_24,2025-09-26 13:54:22,google_ads,lookalike,CO,mobile,native_widget,1.21,136.141.176.3,Chrome
+494,c_336,2025-09-26 14:32:24,email_aff,loan_cmp2,CO,desktop,homepage,0.75,63.195.180.68,Android WebView
+820,c_387,2025-09-26 15:11:31,network_x,cashback_promo,VN,mobile,blog,0.65,154.48.168.17,Chrome
+886,c_95,2025-09-26 15:40:06,network_x,brand_search,VN,desktop,homepage,0.91,217.23.126.60,Firefox
+280,c_332,2025-09-26 16:17:07,facebook_ads,brand_search,KZ,desktop,blog,1.25,29.59.125.98,Chrome
+483,c_317,2025-09-26 16:31:10,tiktok_ads,display_ret,MX,tablet,native_widget,0.96,157.34.97.169,Chrome
+985,c_480,2025-09-26 17:05:17,facebook_ads,brand_search,MX,mobile,homepage,0.23,17.252.251.15,Safari
+836,c_385,2025-09-26 17:26:11,facebook_ads,cashback_promo,MX,mobile,popup,1.34,8.107.208.169,Firefox
+475,c_193,2025-09-26 17:28:14,network_x,brand_search,VN,desktop,native_widget,0.64,179.184.179.198,Edge
+929,c_100,2025-09-26 18:22:31,network_x,brand_search,CO,mobile,comparison,1.32,1.90.156.53,Safari
+539,c_298,2025-09-26 18:46:40,facebook_ads,cashback_promo,CO,mobile,popup,0.4,62.41.223.243,Edge
+621,c_395,2025-09-26 18:55:04,facebook_ads,loan_cmp1,MX,desktop,comparison,1.15,210.41.48.173,Safari
+449,c_101,2025-09-26 20:33:44,network_x,cashback_promo,CO,mobile,homepage,0.77,249.253.38.134,Android WebView
+906,c_167,2025-09-26 21:20:16,network_x,brand_search,VN,mobile,comparison,0.83,188.151.174.52,Safari
+826,c_343,2025-09-26 21:58:19,tiktok_ads,display_ret,CO,mobile,comparison,0.48,55.89.219.58,Edge
+307,c_443,2025-09-26 22:10:32,facebook_ads,cashback_promo,MX,desktop,comparison,0.27,79.59.150.179,Android WebView
+986,c_304,2025-09-26 22:19:59,facebook_ads,loan_cmp1,MX,mobile,homepage,0.7,111.1.41.48,Edge
+578,c_32,2025-09-26 23:31:04,email_aff,lookalike,MX,desktop,comparison,0.43,137.154.130.62,Firefox
+840,c_383,2025-09-26 23:55:03,email_aff,loan_cmp1,KZ,desktop,homepage,1.44,8.221.215.173,Chrome
+479,c_198,2025-09-27 00:01:00,google_ads,lookalike,CO,mobile,popup,0.75,26.80.220.65,Edge
+248,c_165,2025-09-27 00:19:00,email_aff,cashback_promo,VN,mobile,comparison,0.92,54.173.47.140,Android WebView
+116,c_304,2025-09-27 00:41:09,email_aff,lookalike,MX,tablet,popup,0.32,133.235.45.58,Chrome
+736,c_337,2025-09-27 01:11:51,email_aff,loan_cmp2,CO,desktop,popup,0.3,145.167.90.196,Android WebView
+379,c_307,2025-09-27 01:41:18,email_aff,cashback_promo,MX,mobile,native_widget,0.86,125.182.220.122,Chrome
+412,c_96,2025-09-27 02:40:15,email_aff,cashback_promo,CO,mobile,native_widget,0.37,196.149.104.243,Edge
+472,c_383,2025-09-27 02:53:20,facebook_ads,cashback_promo,CO,desktop,comparison,1.09,105.183.228.188,Safari
+26,c_223,2025-09-27 02:58:49,network_x,lookalike,CO,desktop,blog,1.32,17.104.161.137,Firefox
+850,c_277,2025-09-27 03:49:42,google_ads,display_ret,CO,desktop,popup,1.25,53.52.63.201,Android WebView
+1018,c_36,2025-09-27 04:16:12,email_aff,brand_search,KZ,desktop,native_widget,1.27,66.242.85.225,Android WebView
+425,c_93,2025-09-27 04:19:00,network_x,loan_cmp2,VN,mobile,blog,0.69,244.250.166.64,Chrome
+996,c_328,2025-09-27 07:57:50,google_ads,lookalike,MX,tablet,popup,1.02,249.253.241.155,Safari
+1054,c_351,2025-09-27 09:33:24,network_x,loan_cmp2,VN,mobile,comparison,0.91,92.52.185.216,Edge
+924,c_304,2025-09-27 09:49:59,google_ads,brand_search,MX,mobile,comparison,0.14,190.96.128.26,Safari
+971,c_404,2025-09-27 09:50:47,facebook_ads,display_ret,VN,desktop,native_widget,1.2,159.210.40.142,Edge
+83,c_25,2025-09-27 10:06:08,network_x,loan_cmp2,MX,desktop,blog,0.9,187.108.251.179,Chrome
+933,c_493,2025-09-27 10:52:39,tiktok_ads,loan_cmp1,KZ,tablet,homepage,0.6,249.126.155.182,Chrome
+930,c_329,2025-09-27 11:04:06,network_x,cashback_promo,MX,mobile,blog,1.25,38.85.152.24,Edge
+408,c_303,2025-09-27 11:59:29,google_ads,loan_cmp1,CO,mobile,comparison,0.32,89.66.12.168,Chrome
+881,c_332,2025-09-27 12:00:46,email_aff,loan_cmp1,KZ,mobile,comparison,0.53,95.223.141.78,Chrome
+753,c_19,2025-09-27 12:28:11,botnet_01,loan_cmp2,VN,desktop,popup,1.09,10.10.10.10,Android WebView
+1168,c_237,2025-09-27 12:29:02,network_x,brand_search,CO,desktop,popup,1.44,107.69.80.143,Safari
+505,c_266,2025-09-27 12:48:17,email_aff,loan_cmp1,CO,mobile,homepage,0.16,57.244.96.204,Safari
+632,c_80,2025-09-27 12:49:42,network_x,loan_cmp1,KZ,mobile,native_widget,0.8,128.251.55.231,Safari
+340,c_299,2025-09-27 12:59:14,network_x,lookalike,VN,mobile,native_widget,0.88,144.253.13.113,Firefox
+207,c_330,2025-09-27 13:32:57,tiktok_ads,lookalike,CO,mobile,popup,1.47,243.63.49.192,Android WebView
+1164,c_84,2025-09-27 13:49:29,tiktok_ads,display_ret,KZ,desktop,comparison,0.43,11.162.231.212,Android WebView
+928,c_117,2025-09-27 16:05:44,tiktok_ads,loan_cmp2,CO,mobile,native_widget,0.73,131.218.176.171,Firefox
+1092,c_320,2025-09-27 16:32:57,facebook_ads,display_ret,MX,desktop,popup,1.31,69.70.5.115,Firefox
+910,c_462,2025-09-27 16:48:42,email_aff,brand_search,KZ,mobile,homepage,0.56,109.53.228.135,Android WebView
+907,c_174,2025-09-27 16:53:37,tiktok_ads,lookalike,CO,desktop,native_widget,1.41,202.250.106.69,Safari
+428,c_291,2025-09-27 17:10:16,google_ads,lookalike,MX,mobile,comparison,0.62,252.157.16.99,Firefox
+1033,c_169,2025-09-27 19:01:53,facebook_ads,brand_search,KZ,mobile,comparison,0.62,210.23.124.86,Firefox
+351,c_403,2025-09-27 19:21:21,tiktok_ads,display_ret,MX,desktop,blog,0.44,138.160.52.15,Android WebView
+1114,c_396,2025-09-27 19:56:32,email_aff,display_ret,MX,mobile,native_widget,0.68,149.178.168.126,Firefox
+1048,c_493,2025-09-27 20:52:54,facebook_ads,loan_cmp2,CO,mobile,comparison,0.16,247.27.174.34,Chrome
+801,c_180,2025-09-27 20:58:46,facebook_ads,lookalike,KZ,desktop,blog,0.53,145.84.250.87,Safari
+66,c_236,2025-09-27 21:01:43,google_ads,brand_search,MX,mobile,blog,0.77,198.229.121.33,Android WebView
+283,c_216,2025-09-27 23:51:07,network_x,display_ret,CO,mobile,native_widget,1.01,10.228.9.182,Firefox
+331,c_96,2025-09-28 00:11:10,google_ads,lookalike,VN,mobile,homepage,1.22,61.248.207.48,Chrome
+64,c_274,2025-09-28 00:17:42,facebook_ads,lookalike,MX,desktop,native_widget,0.52,231.86.218.126,Edge
+392,c_468,2025-09-28 00:35:23,facebook_ads,lookalike,CO,mobile,homepage,1.01,225.18.113.251,Chrome
+131,c_262,2025-09-28 00:56:29,tiktok_ads,brand_search,VN,mobile,blog,1.19,111.251.127.7,Firefox
+36,c_497,2025-09-28 01:06:40,network_x,lookalike,VN,mobile,comparison,1.23,171.101.12.67,Chrome
+350,c_465,2025-09-28 01:35:50,tiktok_ads,brand_search,CO,mobile,popup,0.62,17.64.42.94,Android WebView
+659,c_216,2025-09-28 02:21:33,google_ads,loan_cmp1,CO,mobile,homepage,0.3,204.166.11.12,Safari
+617,c_214,2025-09-28 02:56:59,google_ads,brand_search,KZ,desktop,comparison,0.05,213.162.139.214,Safari
+867,c_172,2025-09-28 03:25:00,email_aff,brand_search,CO,desktop,blog,0.27,74.200.192.20,Chrome
+212,c_114,2025-09-28 04:44:31,google_ads,loan_cmp2,MX,desktop,native_widget,0.27,4.222.198.110,Firefox
+675,c_10,2025-09-28 06:13:39,google_ads,display_ret,CO,mobile,popup,1.32,105.34.124.110,Chrome
+175,c_63,2025-09-28 07:40:05,email_aff,loan_cmp2,CO,desktop,comparison,1.25,229.253.86.133,Safari
+902,c_370,2025-09-28 07:49:40,email_aff,display_ret,VN,mobile,native_widget,0.6,124.146.21.54,Safari
+68,c_31,2025-09-28 07:59:06,facebook_ads,cashback_promo,KZ,mobile,popup,1.3,134.118.113.94,Firefox
+724,c_397,2025-09-28 09:36:40,email_aff,brand_search,CO,desktop,comparison,0.78,177.48.72.177,Chrome
+859,c_132,2025-09-28 09:37:54,facebook_ads,brand_search,CO,desktop,homepage,1.44,44.78.226.162,Chrome
+338,c_63,2025-09-28 09:59:19,facebook_ads,loan_cmp1,VN,desktop,native_widget,1.29,176.134.217.56,Firefox
+23,c_51,2025-09-28 11:03:10,network_x,lookalike,CO,desktop,homepage,0.76,197.252.61.48,Firefox
+241,c_56,2025-09-28 12:13:34,email_aff,cashback_promo,MX,mobile,blog,0.15,126.139.49.113,Android WebView
+336,c_239,2025-09-28 12:29:08,tiktok_ads,lookalike,CO,desktop,native_widget,1.06,13.155.100.135,Safari
+444,c_338,2025-09-28 12:42:27,network_x,cashback_promo,CO,mobile,comparison,1.31,177.37.154.99,Safari
+273,c_214,2025-09-28 14:33:48,google_ads,lookalike,VN,tablet,blog,1.13,215.172.218.4,Safari
+892,c_173,2025-09-28 14:46:54,email_aff,brand_search,VN,mobile,popup,0.6,172.96.50.117,Chrome
+665,c_163,2025-09-28 15:21:23,facebook_ads,loan_cmp1,CO,mobile,blog,1.21,234.142.204.175,Safari
+1112,c_122,2025-09-28 16:16:05,tiktok_ads,cashback_promo,MX,desktop,homepage,0.88,245.203.5.178,Safari
+453,c_48,2025-09-28 16:25:23,google_ads,display_ret,VN,mobile,blog,0.57,223.15.4.191,Chrome
+562,c_91,2025-09-28 16:43:51,facebook_ads,display_ret,CO,desktop,popup,1.13,133.42.135.42,Edge
+1056,c_210,2025-09-28 16:51:04,tiktok_ads,loan_cmp1,MX,mobile,popup,0.69,155.31.169.164,Firefox
+618,c_163,2025-09-28 18:51:03,email_aff,display_ret,MX,desktop,blog,1.04,118.237.53.200,Edge
+790,c_147,2025-09-28 19:00:22,google_ads,loan_cmp2,VN,mobile,blog,0.27,250.190.199.228,Android WebView
+581,c_397,2025-09-28 20:06:17,google_ads,brand_search,VN,mobile,comparison,1.34,204.241.228.194,Firefox
+708,c_101,2025-09-28 22:41:26,network_x,cashback_promo,MX,desktop,native_widget,1.37,61.168.44.214,Firefox
+774,c_302,2025-09-28 23:37:04,network_x,loan_cmp1,CO,desktop,native_widget,0.67,3.91.52.233,Firefox
+955,c_52,2025-09-28 23:42:46,google_ads,display_ret,VN,mobile,native_widget,0.2,193.162.81.101,Safari
+114,c_389,2025-09-28 23:52:36,google_ads,display_ret,MX,desktop,native_widget,1.49,114.40.45.224,Android WebView
+764,c_349,2025-09-29 00:05:29,tiktok_ads,display_ret,VN,desktop,homepage,1.12,223.147.3.36,Firefox
+1082,c_172,2025-09-29 01:07:56,email_aff,cashback_promo,MX,mobile,blog,0.18,158.179.246.88,Edge
+919,c_14,2025-09-29 01:49:34,facebook_ads,cashback_promo,CO,desktop,popup,1.22,90.212.38.83,Firefox
+38,c_418,2025-09-29 02:05:43,facebook_ads,cashback_promo,CO,desktop,comparison,1.12,21.253.249.164,Safari
+818,c_335,2025-09-29 03:00:44,tiktok_ads,loan_cmp2,MX,desktop,homepage,0.21,96.32.53.59,Android WebView
+324,c_449,2025-09-29 03:23:27,google_ads,display_ret,CO,mobile,blog,1.42,48.177.245.64,Android WebView
+416,c_212,2025-09-29 03:59:49,google_ads,lookalike,VN,tablet,comparison,1.32,99.20.46.195,Chrome
+463,c_328,2025-09-29 04:36:14,network_x,loan_cmp2,VN,desktop,homepage,0.17,246.196.35.123,Firefox
+624,c_251,2025-09-29 04:36:48,facebook_ads,loan_cmp1,KZ,mobile,blog,1.26,236.183.200.101,Edge
+1078,c_80,2025-09-29 04:39:32,tiktok_ads,display_ret,CO,tablet,blog,0.2,5.192.157.203,Android WebView
+761,c_333,2025-09-29 06:13:14,network_x,brand_search,VN,mobile,native_widget,1.28,215.216.69.69,Chrome
+573,c_243,2025-09-29 06:54:05,google_ads,lookalike,KZ,desktop,popup,0.68,99.133.81.250,Safari
+1124,c_399,2025-09-29 07:04:04,google_ads,lookalike,KZ,mobile,blog,0.08,98.34.243.183,Firefox
+966,c_307,2025-09-29 07:24:33,facebook_ads,cashback_promo,CO,mobile,native_widget,1.18,200.110.197.122,Edge
+37,c_417,2025-09-29 07:35:50,email_aff,lookalike,MX,desktop,blog,0.15,8.93.154.202,Safari
+11,c_96,2025-09-29 09:23:47,email_aff,loan_cmp1,MX,mobile,comparison,1.42,71.187.243.86,Edge
+734,c_158,2025-09-29 09:44:17,facebook_ads,lookalike,CO,mobile,blog,0.52,33.206.80.11,Chrome
+848,c_419,2025-09-29 09:49:21,tiktok_ads,brand_search,CO,desktop,popup,1.32,152.148.197.230,Firefox
+889,c_481,2025-09-29 10:34:17,facebook_ads,loan_cmp1,MX,mobile,native_widget,0.86,192.178.234.87,Edge
+816,c_319,2025-09-29 11:43:55,tiktok_ads,display_ret,VN,tablet,native_widget,1.11,48.212.26.112,Firefox
+781,c_368,2025-09-29 11:51:19,facebook_ads,brand_search,VN,mobile,blog,0.96,134.220.32.108,Safari
+111,c_54,2025-09-29 11:54:34,botnet_01,brand_search,CO,mobile,homepage,0.62,10.10.10.10,Android WebView
+451,c_153,2025-09-29 13:03:14,google_ads,cashback_promo,MX,mobile,blog,1.22,25.16.182.243,Chrome
+606,c_134,2025-09-29 13:20:37,tiktok_ads,cashback_promo,VN,desktop,native_widget,0.66,198.103.225.55,Chrome
+1131,c_484,2025-09-29 14:30:21,facebook_ads,display_ret,MX,desktop,native_widget,1.19,244.215.143.154,Firefox
+1015,c_222,2025-09-29 15:14:22,network_x,loan_cmp1,CO,desktop,homepage,1.03,131.101.248.221,Android WebView
+822,c_327,2025-09-29 16:07:11,google_ads,display_ret,MX,desktop,blog,0.29,184.95.17.137,Android WebView
+346,c_193,2025-09-29 16:37:01,google_ads,cashback_promo,MX,mobile,homepage,0.3,148.178.112.161,Firefox
+976,c_228,2025-09-29 16:48:51,tiktok_ads,loan_cmp1,VN,mobile,comparison,1.33,186.172.249.16,Chrome
+170,c_466,2025-09-29 17:51:49,botnet_01,display_ret,CO,mobile,homepage,0.5,10.10.10.10,Android WebView
+305,c_124,2025-09-29 18:37:34,tiktok_ads,loan_cmp2,KZ,mobile,comparison,1.43,219.41.182.148,Edge
+890,c_15,2025-09-29 18:48:16,tiktok_ads,brand_search,CO,tablet,homepage,0.91,247.240.166.150,Firefox
+74,c_89,2025-09-29 20:01:41,network_x,brand_search,CO,mobile,comparison,0.83,63.143.225.153,Chrome
+1165,c_213,2025-09-29 20:37:44,tiktok_ads,loan_cmp1,VN,desktop,popup,1.09,254.191.155.188,Firefox
+849,c_232,2025-09-29 20:52:59,facebook_ads,loan_cmp2,VN,mobile,popup,1.46,93.237.107.126,Chrome
+140,c_301,2025-09-29 21:16:59,google_ads,lookalike,VN,mobile,blog,1.25,1.133.20.8,Firefox
+719,c_234,2025-09-29 21:39:07,google_ads,loan_cmp2,MX,mobile,homepage,0.46,187.31.156.60,Chrome
+728,c_88,2025-09-29 22:41:18,network_x,loan_cmp2,MX,mobile,popup,0.15,27.214.74.61,Safari
+809,c_265,2025-09-29 23:24:34,email_aff,lookalike,MX,desktop,blog,0.1,62.113.133.122,Firefox
+1084,c_486,2025-09-29 23:50:34,facebook_ads,brand_search,CO,mobile,native_widget,0.31,13.142.188.200,Chrome
+253,c_480,2025-09-30 00:04:36,network_x,loan_cmp2,VN,mobile,blog,0.57,194.169.152.35,Chrome
+1094,c_490,2025-09-30 00:06:26,tiktok_ads,lookalike,KZ,mobile,comparison,1.49,107.148.186.93,Safari
+1053,c_356,2025-09-30 00:11:44,google_ads,cashback_promo,CO,desktop,homepage,1.37,207.32.98.43,Android WebView
+292,c_306,2025-09-30 02:00:14,network_x,loan_cmp1,VN,mobile,homepage,1.22,39.16.248.22,Android WebView
+540,c_487,2025-09-30 02:23:29,email_aff,loan_cmp2,CO,tablet,comparison,1.27,78.70.178.101,Safari
+126,c_448,2025-09-30 03:12:16,facebook_ads,cashback_promo,KZ,desktop,homepage,0.93,84.228.9.166,Chrome
+870,c_67,2025-09-30 03:44:30,google_ads,brand_search,CO,mobile,native_widget,1.35,154.235.150.149,Chrome
+987,c_108,2025-09-30 04:08:12,tiktok_ads,display_ret,MX,desktop,blog,0.17,240.45.78.81,Edge
+230,c_340,2025-09-30 04:52:23,google_ads,loan_cmp1,CO,mobile,homepage,0.1,124.97.90.39,Android WebView
+791,c_24,2025-09-30 05:33:16,google_ads,cashback_promo,VN,desktop,native_widget,0.66,154.37.219.222,Firefox
+70,c_113,2025-09-30 05:43:38,tiktok_ads,brand_search,CO,desktop,native_widget,1.4,77.235.3.161,Safari
+195,c_60,2025-09-30 06:03:37,facebook_ads,loan_cmp2,MX,mobile,popup,1.08,159.100.192.19,Android WebView
+98,c_250,2025-09-30 06:40:58,google_ads,cashback_promo,MX,mobile,homepage,0.92,226.201.154.194,Android WebView
+216,c_76,2025-09-30 07:05:56,facebook_ads,display_ret,MX,desktop,blog,0.66,34.41.51.175,Safari
+827,c_63,2025-09-30 07:48:04,tiktok_ads,brand_search,CO,desktop,native_widget,0.23,236.149.100.40,Android WebView
+1149,c_174,2025-09-30 08:28:18,facebook_ads,brand_search,MX,desktop,comparison,0.24,157.178.190.52,Firefox
+1027,c_50,2025-09-30 09:11:04,botnet_01,cashback_promo,MX,mobile,blog,0.26,10.10.10.10,Android WebView
+109,c_61,2025-09-30 09:37:16,facebook_ads,cashback_promo,CO,mobile,comparison,1.48,199.52.4.59,Edge
+375,c_158,2025-09-30 09:40:12,network_x,loan_cmp1,CO,mobile,native_widget,0.82,38.253.143.250,Safari
+1090,c_450,2025-09-30 10:23:23,facebook_ads,loan_cmp2,MX,desktop,blog,0.33,247.81.22.171,Firefox
+527,c_296,2025-09-30 10:52:12,facebook_ads,lookalike,VN,desktop,homepage,1.2,36.122.108.10,Chrome
+808,c_61,2025-09-30 11:17:24,google_ads,display_ret,VN,mobile,native_widget,1.2,86.133.187.68,Android WebView
+431,c_200,2025-09-30 11:18:16,network_x,lookalike,CO,mobile,native_widget,1.35,202.229.12.118,Firefox
+40,c_369,2025-09-30 11:32:35,email_aff,brand_search,MX,desktop,homepage,1.25,86.141.187.19,Chrome
+1045,c_173,2025-09-30 11:41:22,email_aff,loan_cmp2,KZ,desktop,native_widget,0.89,12.91.245.30,Android WebView
+1194,c_66,2025-09-30 11:56:07,tiktok_ads,lookalike,CO,desktop,homepage,1.15,15.37.155.230,Firefox
+155,c_420,2025-09-30 12:15:39,email_aff,display_ret,MX,mobile,homepage,0.31,141.159.71.191,Chrome
+432,c_423,2025-09-30 12:15:48,botnet_01,loan_cmp1,MX,desktop,comparison,0.69,10.10.10.10,Android WebView
+789,c_182,2025-09-30 12:33:47,network_x,brand_search,MX,tablet,native_widget,1.11,55.147.157.2,Edge
+887,c_396,2025-09-30 13:59:15,facebook_ads,display_ret,MX,desktop,blog,0.18,189.8.104.225,Safari
+106,c_141,2025-09-30 14:13:04,facebook_ads,lookalike,MX,desktop,native_widget,0.63,245.236.185.16,Edge
+224,c_476,2025-09-30 14:20:31,network_x,brand_search,MX,desktop,native_widget,0.1,35.11.64.238,Safari
+365,c_116,2025-09-30 14:54:24,email_aff,cashback_promo,CO,mobile,popup,1.29,137.182.111.1,Edge
+359,c_333,2025-09-30 15:12:02,email_aff,loan_cmp2,MX,mobile,native_widget,0.37,237.246.226.208,Android WebView
+779,c_387,2025-09-30 15:13:16,tiktok_ads,loan_cmp2,VN,mobile,homepage,0.15,130.184.111.205,Firefox
+648,c_490,2025-09-30 15:47:42,network_x,brand_search,VN,mobile,native_widget,1.1,15.57.75.34,Edge
+389,c_221,2025-09-30 15:53:41,facebook_ads,display_ret,VN,desktop,native_widget,1.42,253.238.108.4,Android WebView
+1007,c_448,2025-09-30 15:57:07,google_ads,cashback_promo,MX,mobile,homepage,1.03,159.88.7.218,Android WebView
+312,c_61,2025-09-30 16:17:51,facebook_ads,loan_cmp2,CO,mobile,blog,0.53,82.38.127.19,Edge
+999,c_133,2025-09-30 16:25:19,tiktok_ads,cashback_promo,CO,mobile,native_widget,1.24,211.145.133.89,Safari
+1022,c_26,2025-09-30 17:43:17,network_x,loan_cmp1,KZ,mobile,popup,0.14,159.134.11.77,Edge
+535,c_321,2025-09-30 19:01:15,google_ads,loan_cmp1,CO,desktop,comparison,0.79,112.174.160.27,Edge
+30,c_60,2025-09-30 19:21:18,google_ads,loan_cmp1,CO,mobile,popup,1.06,168.52.144.13,Safari
+105,c_470,2025-09-30 20:33:58,facebook_ads,display_ret,CO,mobile,popup,0.72,34.158.251.247,Android WebView
+643,c_131,2025-09-30 20:42:34,google_ads,cashback_promo,MX,desktop,popup,0.44,84.146.45.108,Firefox
+537,c_494,2025-09-30 20:45:55,google_ads,lookalike,KZ,desktop,popup,1.26,192.153.156.204,Safari
+67,c_150,2025-09-30 21:08:45,google_ads,loan_cmp2,MX,desktop,comparison,0.3,55.137.247.131,Firefox
+1191,c_15,2025-09-30 21:22:35,botnet_01,loan_cmp1,CO,desktop,blog,1.0,10.10.10.10,Android WebView
+912,c_73,2025-09-30 22:13:11,facebook_ads,loan_cmp2,MX,mobile,homepage,1.11,69.169.77.1,Chrome
+1006,c_353,2025-09-30 23:05:37,email_aff,loan_cmp2,VN,desktop,native_widget,1.28,230.233.28.64,Safari
+685,c_156,2025-09-30 23:21:45,google_ads,brand_search,MX,desktop,comparison,0.06,14.38.140.45,Chrome
+302,c_33,2025-09-30 23:28:46,facebook_ads,brand_search,CO,desktop,blog,0.6,33.141.84.182,Firefox
+637,c_240,2025-09-30 23:44:28,facebook_ads,cashback_promo,VN,mobile,comparison,0.9,16.145.208.19,Android WebView
